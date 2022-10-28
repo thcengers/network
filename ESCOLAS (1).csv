@@ -1,0 +1,949 @@
+,name_muni,private_school_type,geometry,size,education_level_others,urban,government_level,centroid_column,x,y
+199870,Porto Alegre,Particular,POINT (-51.18704 -30.16047),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.18704 -30.16047),-51.18704,-30.16047
+199872,Porto Alegre,Particular,POINT (-51.23133 -30.03075),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.23133 -30.03075),-51.23133,-30.03075
+199873,Porto Alegre,Particular,POINT (-51.22237 -30.02812),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22237 -30.02812),-51.22237,-30.02812
+199874,Porto Alegre,Particular,POINT (-51.22703 -30.03069),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22703 -30.03069),-51.22703,-30.03069
+199876,Porto Alegre,Particular,POINT (-51.22271 -30.02523),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.22271 -30.02523),-51.22271,-30.02523
+199929,Porto Alegre,Não Informado,POINT (-51.13074911 -30.14187932),Entre 501 e 1000 matrículas de escolarização,,Urbana,Federal,POINT (-51.13074911 -30.14187932),-51.13074911,-30.14187932
+199935,Porto Alegre,Não Informado,POINT (-51.09536 -30.22072),Até 50 matrículas de escolarização,,Urbana,Estadual,POINT (-51.09536 -30.22072),-51.09536,-30.22072
+199983,Porto Alegre,Particular,POINT (-51.10934 -30.00716),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.10934 -30.00716),-51.10934,-30.00716
+199984,Porto Alegre,Particular,POINT (-51.2373036 -30.1271165),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2373036 -30.1271165),-51.2373036,-30.1271165
+199985,Porto Alegre,Particular,POINT (-51.20554 -30.04889),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20554 -30.04889),-51.20554,-30.04889
+199987,Porto Alegre,Particular,POINT (-51.18436 -30.01259),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18436 -30.01259),-51.18436,-30.01259
+199989,Porto Alegre,Particular,POINT (-51.18156 -30.0311),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18156 -30.0311),-51.18156,-30.0311
+199993,Porto Alegre,Particular,POINT (-51.1752 -30.09194),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1752 -30.09194),-51.1752,-30.09194
+199995,Porto Alegre,Particular,POINT (-51.09916 -30.01355),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.09916 -30.01355),-51.09916,-30.01355
+199996,Porto Alegre,Particular,POINT (-51.17807 -30.02981),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.17807 -30.02981),-51.17807,-30.02981
+199997,Porto Alegre,Particular,POINT (-51.20386 -30.05208),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20386 -30.05208),-51.20386,-30.05208
+199998,Porto Alegre,Não Informado,POINT (-51.1486 -30.00811),,,Urbana,Privada,POINT (-51.1486 -30.00811),-51.1486,-30.00811
+199999,Porto Alegre,Particular,POINT (-51.1480022 -30.0124666),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1480022 -30.0124666),-51.1480022,-30.0124666
+200008,Porto Alegre,Particular,POINT (-51.1946 -30.03969),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1946 -30.03969),-51.1946,-30.03969
+200009,Porto Alegre,Particular,POINT (-51.19355 -30.0293),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.19355 -30.0293),-51.19355,-30.0293
+200010,Porto Alegre,Particular,POINT (-51.22837 -30.06071),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22837 -30.06071),-51.22837,-30.06071
+200011,Porto Alegre,Particular,POINT (-51.2123 -30.14776),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2123 -30.14776),-51.2123,-30.14776
+200061,Porto Alegre,Particular,POINT (-51.09608 -30.02402),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.09608 -30.02402),-51.09608,-30.02402
+200182,Porto Alegre,Particular,POINT (-51.12831 -29.99644),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.12831 -29.99644),-51.12831,-29.99644
+200183,Porto Alegre,Particular,POINT (-51.10212 -30.11369),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.10212 -30.11369),-51.10212,-30.11369
+200185,Porto Alegre,Não Informado,POINT (-51.12349 -30.00143),,,Urbana,Privada,POINT (-51.12349 -30.00143),-51.12349,-30.00143
+200186,Porto Alegre,Particular,POINT (-51.16315 -30.01839),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16315 -30.01839),-51.16315,-30.01839
+200187,Porto Alegre,Particular,POINT (-51.19768 -30.1577),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.19768 -30.1577),-51.19768,-30.1577
+200188,Porto Alegre,Comunitária,POINT (-51.2005545 -30.0838606),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2005545 -30.0838606),-51.2005545,-30.0838606
+200190,Porto Alegre,Comunitária,POINT (-51.145228 -30.1504733),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.145228 -30.1504733),-51.145228,-30.1504733
+200191,Porto Alegre,Comunitária,POINT (-51.1075524 -30.1254365),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1075524 -30.1254365),-51.1075524,-30.1254365
+200192,Porto Alegre,Comunitária,POINT (-51.1938636 -30.0660083),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1938636 -30.0660083),-51.1938636,-30.0660083
+200193,Porto Alegre,Comunitária,POINT (-51.1948354 -29.9888897),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1948354 -29.9888897),-51.1948354,-29.9888897
+200194,Porto Alegre,Particular,POINT (-51.17941 -30.0225),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.17941 -30.0225),-51.17941,-30.0225
+200195,Porto Alegre,Particular,POINT (-51.18099 -30.04281),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18099 -30.04281),-51.18099,-30.04281
+200197,Porto Alegre,Particular,POINT (-51.22279 -30.09168),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22279 -30.09168),-51.22279,-30.09168
+200198,Porto Alegre,Particular,POINT (-51.18206959 -30.00432151),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18206959 -30.00432151),-51.18206959,-30.00432151
+200214,Porto Alegre,Comunitária,POINT (-51.1997823 -29.983338),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1997823 -29.983338),-51.1997823,-29.983338
+200220,Porto Alegre,Particular,POINT (-51.1884704 -30.0436006),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1884704 -30.0436006),-51.1884704,-30.0436006
+200221,Porto Alegre,Particular,POINT (-51.18278 -30.02105),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18278 -30.02105),-51.18278,-30.02105
+200222,Porto Alegre,Particular,POINT (-51.1576 -30.01693),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1576 -30.01693),-51.1576,-30.01693
+200223,Porto Alegre,Particular,POINT (-51.23232 -30.09775),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23232 -30.09775),-51.23232,-30.09775
+200224,Porto Alegre,Particular,POINT (-51.19944 -30.0298),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19944 -30.0298),-51.19944,-30.0298
+200225,Porto Alegre,Particular,POINT (-51.21645 -30.02766),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21645 -30.02766),-51.21645,-30.02766
+200226,Porto Alegre,Particular,POINT (-51.22498 -30.05744),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22498 -30.05744),-51.22498,-30.05744
+200227,Porto Alegre,Particular,POINT (-51.13866 -30.01019),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13866 -30.01019),-51.13866,-30.01019
+200229,Porto Alegre,Confessional,POINT (-51.1208081 -30.0419296),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1208081 -30.0419296),-51.1208081,-30.0419296
+200230,Porto Alegre,Comunitária,POINT (-51.1048818 -30.0013348),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1048818 -30.0013348),-51.1048818,-30.0013348
+200231,Porto Alegre,Particular,POINT (-51.14627 -30.01386),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.14627 -30.01386),-51.14627,-30.01386
+200232,Porto Alegre,Particular,POINT (-51.2024533333333 -30.1529416666667),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2024533333333 -30.1529416666667),-51.2024533333333,-30.1529416666667
+200233,Porto Alegre,Filantrópica,POINT (-51.1936205998063 -30.1832880545408),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1936205998063 -30.1832880545408),-51.1936205998063,-30.1832880545408
+200234,Porto Alegre,Particular,POINT (-51.14759 -30.05673),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14759 -30.05673),-51.14759,-30.05673
+200235,Porto Alegre,Particular,POINT (-51.23285 -30.03508),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23285 -30.03508),-51.23285,-30.03508
+200246,Porto Alegre,Particular,POINT (-51.18297 -30.04677),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18297 -30.04677),-51.18297,-30.04677
+200249,Porto Alegre,Particular,POINT (-51.23822 -30.12711),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.23822 -30.12711),-51.23822,-30.12711
+200404,Porto Alegre,Particular,POINT (-51.18233 -30.02059),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18233 -30.02059),-51.18233,-30.02059
+200406,Porto Alegre,Particular,POINT (-51.21136 -30.03995),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21136 -30.03995),-51.21136,-30.03995
+200407,Porto Alegre,Particular,POINT (-51.13335 -30.01104),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13335 -30.01104),-51.13335,-30.01104
+200408,Porto Alegre,Comunitária,POINT (-51.1923226 -30.1848141),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1923226 -30.1848141),-51.1923226,-30.1848141
+200409,Porto Alegre,Comunitária,POINT (-51.1746005 -30.1764993),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1746005 -30.1764993),-51.1746005,-30.1764993
+200410,Porto Alegre,Comunitária,POINT (-51.2021869 -30.1255537),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2021869 -30.1255537),-51.2021869,-30.1255537
+200411,Porto Alegre,Comunitária,POINT (-51.2308604 -30.0779924),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2308604 -30.0779924),-51.2308604,-30.0779924
+200413,Porto Alegre,Não Informado,POINT (-51.22815 -30.03),,,Urbana,Privada,POINT (-51.22815 -30.03),-51.22815,-30.03
+200458,Porto Alegre,Não Informado,POINT (-51.22335 -30.03858),,,Urbana,Privada,POINT (-51.22335 -30.03858),-51.22335,-30.03858
+200463,Porto Alegre,Particular,POINT (-51.18843 -29.99936),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18843 -29.99936),-51.18843,-29.99936
+200577,Porto Alegre,Comunitária,POINT (-51.116994 -30.0294738),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.116994 -30.0294738),-51.116994,-30.0294738
+200579,Porto Alegre,Particular,POINT (-51.10787 -30.02391),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.10787 -30.02391),-51.10787,-30.02391
+200580,Porto Alegre,Comunitária,POINT (-51.2440711 -30.0941333),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2440711 -30.0941333),-51.2440711,-30.0941333
+200581,Porto Alegre,Particular,POINT (-51.10963 -30.01495),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.10963 -30.01495),-51.10963,-30.01495
+200582,Porto Alegre,Não Informado,POINT (-51.1548303 -30.0113631),,,Urbana,Privada,POINT (-51.1548303 -30.0113631),-51.1548303,-30.0113631
+200584,Porto Alegre,Particular,POINT (-51.09375 -30.00076),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.09375 -30.00076),-51.09375,-30.00076
+200607,Porto Alegre,Particular,POINT (-51.18039 -30.03472),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18039 -30.03472),-51.18039,-30.03472
+200608,Porto Alegre,Particular,POINT (-51.18877 -30.0093),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18877 -30.0093),-51.18877,-30.0093
+200609,Porto Alegre,Particular,POINT (-51.18882 -30.04557),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18882 -30.04557),-51.18882,-30.04557
+200611,Porto Alegre,Particular,POINT (-51.15968 -30.11119),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.15968 -30.11119),-51.15968,-30.11119
+200612,Porto Alegre,Particular,POINT (-51.10072 -30.1202),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.10072 -30.1202),-51.10072,-30.1202
+200615,Porto Alegre,Comunitária,POINT (-51.1351031 -30.1504938),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1351031 -30.1504938),-51.1351031,-30.1504938
+200616,Porto Alegre,Não Informado,POINT (-51.1468 -30.01501),,,Urbana,Privada,POINT (-51.1468 -30.01501),-51.1468,-30.01501
+200617,Porto Alegre,Particular,POINT (-51.19326 -30.01721),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.19326 -30.01721),-51.19326,-30.01721
+200619,Porto Alegre,Comunitária,POINT (-51.1096746 -30.0219098),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1096746 -30.0219098),-51.1096746,-30.0219098
+200623,Porto Alegre,Particular,POINT (-51.21947 -30.04303),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.21947 -30.04303),-51.21947,-30.04303
+200629,Porto Alegre,Comunitária,POINT (-51.1553158 -30.0382218),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1553158 -30.0382218),-51.1553158,-30.0382218
+200632,Porto Alegre,Particular,POINT (-51.19985 -30.07104),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19985 -30.07104),-51.19985,-30.07104
+200633,Porto Alegre,Particular,POINT (-51.167033 -30.1882985),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.167033 -30.1882985),-51.167033,-30.1882985
+200635,Porto Alegre,Particular,POINT (-51.16728 -30.01408),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16728 -30.01408),-51.16728,-30.01408
+200654,Porto Alegre,Não Informado,POINT (-51.21934 -30.07993),,,Urbana,Privada,POINT (-51.21934 -30.07993),-51.21934,-30.07993
+200763,Porto Alegre,Não Informado,POINT (-51.22605 -30.03436),,,Urbana,Privada,POINT (-51.22605 -30.03436),-51.22605,-30.03436
+201614,Porto Alegre,Particular,POINT (-51.15774 -30.01295),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.15774 -30.01295),-51.15774,-30.01295
+202190,Porto Alegre,Comunitária,POINT (-51.1362187 -30.1585898),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1362187 -30.1585898),-51.1362187,-30.1585898
+202232,Porto Alegre,Comunitária,POINT (-51.1456262 -30.1528026),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1456262 -30.1528026),-51.1456262,-30.1528026
+202251,Porto Alegre,Particular,POINT (-51.24773 -30.09865),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.24773 -30.09865),-51.24773,-30.09865
+202284,Porto Alegre,Comunitária,POINT (-51.2169819697738 -29.9952937010676),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2169819697738 -29.9952937010676),-51.2169819697738,-29.9952937010676
+202302,Porto Alegre,Comunitária,POINT (-51.1248138 -30.0196723),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1248138 -30.0196723),-51.1248138,-30.0196723
+202303,Porto Alegre,Não Informado,POINT (-51.124038 -29.9820667),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.124038 -29.9820667),-51.124038,-29.9820667
+202304,Porto Alegre,Não Informado,POINT (-51.1074453 -30.0013868),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1074453 -30.0013868),-51.1074453,-30.0013868
+202310,Porto Alegre,Não Informado,POINT (-51.2272 -30.0343),,,Urbana,Privada,POINT (-51.2272 -30.0343),-51.2272,-30.0343
+202341,Porto Alegre,Particular,POINT (-51.21843 -30.02787),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.21843 -30.02787),-51.21843,-30.02787
+202444,Porto Alegre,Comunitária,POINT (-51.1018623 -30.1429328),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1018623 -30.1429328),-51.1018623,-30.1429328
+202446,Porto Alegre,Particular,POINT (-51.22872 -30.0295),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22872 -30.0295),-51.22872,-30.0295
+203961,Porto Alegre,Comunitária,POINT (-51.227896 -30.1636441),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.227896 -30.1636441),-51.227896,-30.1636441
+203962,Porto Alegre,Comunitária,POINT (-51.1475797 -30.1657561),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1475797 -30.1657561),-51.1475797,-30.1657561
+203963,Porto Alegre,Comunitária,POINT (-51.0832602 -30.2381117),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0832602 -30.2381117),-51.0832602,-30.2381117
+203965,Porto Alegre,Comunitária,POINT (-51.149968 -30.1472718),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.149968 -30.1472718),-51.149968,-30.1472718
+203971,Porto Alegre,Comunitária,POINT (-51.1505841 -30.1612722),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1505841 -30.1612722),-51.1505841,-30.1612722
+203973,Porto Alegre,Particular,POINT (-51.1667096 -30.0383393),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1667096 -30.0383393),-51.1667096,-30.0383393
+203983,Porto Alegre,Filantrópica,POINT (-51.2207633333333 -30.0636783333333),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.2207633333333 -30.0636783333333),-51.2207633333333,-30.0636783333333
+204713,Porto Alegre,Não Informado,POINT (-51.12293 -30.07583),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Federal,POINT (-51.12293 -30.07583),-51.12293,-30.07583
+204714,Porto Alegre,Confessional,POINT (-51.20903726 -30.02107588),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.20903726 -30.02107588),-51.20903726,-30.02107588
+204715,Porto Alegre,Particular,POINT (-51.17299444 -30.06063032),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.17299444 -30.06063032),-51.17299444,-30.06063032
+204716,Porto Alegre,Particular,POINT (-51.20227 -30.00657),Entre 501 e 1000 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.20227 -30.00657),-51.20227,-30.00657
+204717,Porto Alegre,Particular,POINT (-51.17077778 -30.03596567),Mais de 1000 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.17077778 -30.03596567),-51.17077778,-30.03596567
+204718,Porto Alegre,Particular,POINT (-51.19916 -30.04057),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.19916 -30.04057),-51.19916,-30.04057
+204719,Porto Alegre,Particular,POINT (-51.23557 -30.06716),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.23557 -30.06716),-51.23557,-30.06716
+204720,Porto Alegre,Não Informado,POINT (-51.21336 -30.03883),Entre 501 e 1000 matrículas de escolarização,,Urbana,Federal,POINT (-51.21336 -30.03883),-51.21336,-30.03883
+204721,Porto Alegre,Particular,POINT (-51.20914 -30.02741),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.20914 -30.02741),-51.20914,-30.02741
+204722,Porto Alegre,Particular,POINT (-51.20010775 -30.0764386),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.20010775 -30.0764386),-51.20010775,-30.0764386
+204723,Porto Alegre,Filantrópica,POINT (-51.23373 -30.03238),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.23373 -30.03238),-51.23373,-30.03238
+204724,Porto Alegre,Particular,POINT (-51.20053 -30.05814),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.20053 -30.05814),-51.20053,-30.05814
+204725,Porto Alegre,Filantrópica,POINT (-51.18439 -30.04375),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.18439 -30.04375),-51.18439,-30.04375
+204726,Porto Alegre,Particular,POINT (-51.22974791 -30.09776193),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.22974791 -30.09776193),-51.22974791,-30.09776193
+204727,Porto Alegre,Particular,POINT (-51.20160538 -30.05547236),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.20160538 -30.05547236),-51.20160538,-30.05547236
+204729,Porto Alegre,Particular,POINT (-51.1864789450522 -30.0082270021097),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.1864789450522 -30.0082270021097),-51.1864789450522,-30.0082270021097
+204730,Porto Alegre,Particular,POINT (-51.1548303 -30.0113631),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.1548303 -30.0113631),-51.1548303,-30.0113631
+204731,Porto Alegre,Particular,POINT (-51.20626 -30.01687),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.20626 -30.01687),-51.20626,-30.01687
+204732,Porto Alegre,Particular,POINT (-51.2267540954053 -30.0338464323431),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.2267540954053 -30.0338464323431),-51.2267540954053,-30.0338464323431
+204733,Porto Alegre,Não Informado,POINT (-51.20275 -30.01729),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20275 -30.01729),-51.20275,-30.01729
+204734,Porto Alegre,Não Informado,POINT (-51.09698 -30.01406),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.09698 -30.01406),-51.09698,-30.01406
+204735,Porto Alegre,Não Informado,POINT (-51.21779 -30.04749),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.21779 -30.04749),-51.21779,-30.04749
+204736,Porto Alegre,Não Informado,POINT (-51.17667 -30.01307),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.17667 -30.01307),-51.17667,-30.01307
+204737,Porto Alegre,Não Informado,POINT (-51.20284 -30.00219),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20284 -30.00219),-51.20284,-30.00219
+204738,Porto Alegre,Não Informado,POINT (-51.22133 -30.05947),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22133 -30.05947),-51.22133,-30.05947
+204739,Porto Alegre,Não Informado,POINT (-51.21292 -30.04438),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21292 -30.04438),-51.21292,-30.04438
+204740,Porto Alegre,Não Informado,POINT (-51.25291 -30.10906),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.25291 -30.10906),-51.25291,-30.10906
+204741,Porto Alegre,Não Informado,POINT (-51.2079796 -30.0692642),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2079796 -30.0692642),-51.2079796,-30.0692642
+204742,Porto Alegre,Particular,POINT (-51.1867145 -30.0472691),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1867145 -30.0472691),-51.1867145,-30.0472691
+204743,Porto Alegre,Particular,POINT (-51.17491 -30.01603),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.17491 -30.01603),-51.17491,-30.01603
+204744,Porto Alegre,Filantrópica,POINT (-51.179015 -30.0112333333333),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.179015 -30.0112333333333),-51.179015,-30.0112333333333
+204746,Porto Alegre,Particular,POINT (-51.21026 -30.06749),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.21026 -30.06749),-51.21026,-30.06749
+204747,Porto Alegre,Particular,POINT (-51.17502 -30.06394),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.17502 -30.06394),-51.17502,-30.06394
+204748,Porto Alegre,Particular,POINT (-51.16511 -30.00441),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.16511 -30.00441),-51.16511,-30.00441
+204749,Porto Alegre,Não Informado,POINT (-51.14896 -30.06203),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.14896 -30.06203),-51.14896,-30.06203
+204750,Porto Alegre,Não Informado,POINT (-51.2263 -30.08994),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.2263 -30.08994),-51.2263,-30.08994
+204751,Porto Alegre,Particular,POINT (-51.23909 -30.10402),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.23909 -30.10402),-51.23909,-30.10402
+204752,Porto Alegre,Filantrópica,POINT (-51.1946497 -30.0654387),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.1946497 -30.0654387),-51.1946497,-30.0654387
+204753,Porto Alegre,Não Informado,POINT (-51.19458 -30.0563),,,Urbana,Privada,POINT (-51.19458 -30.0563),-51.19458,-30.0563
+204754,Porto Alegre,Não Informado,POINT (-51.1121833 -30.1113289),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1121833 -30.1113289),-51.1121833,-30.1113289
+204755,Porto Alegre,Não Informado,POINT (-51.167881 -30.078529),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.167881 -30.078529),-51.167881,-30.078529
+204756,Porto Alegre,Não Informado,POINT (-51.2416981 -30.0980326),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2416981 -30.0980326),-51.2416981,-30.0980326
+204757,Porto Alegre,Não Informado,POINT (-51.1006669 -30.0121106),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1006669 -30.0121106),-51.1006669,-30.0121106
+204758,Porto Alegre,Não Informado,POINT (-51.1378651 -30.1515842),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1378651 -30.1515842),-51.1378651,-30.1515842
+204759,Porto Alegre,Não Informado,POINT (-51.2325126 -30.0823195),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2325126 -30.0823195),-51.2325126,-30.0823195
+204760,Porto Alegre,Não Informado,POINT (-51.1333765 -29.9953156),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1333765 -29.9953156),-51.1333765,-29.9953156
+204761,Porto Alegre,Não Informado,POINT (-51.1584235 -30.0467846),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1584235 -30.0467846),-51.1584235,-30.0467846
+204762,Porto Alegre,Não Informado,POINT (-51.127882 -30.0154933),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.127882 -30.0154933),-51.127882,-30.0154933
+204763,Porto Alegre,Não Informado,POINT (-51.1275765 -30.0166174),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1275765 -30.0166174),-51.1275765,-30.0166174
+204764,Porto Alegre,Não Informado,POINT (-51.1327286 -30.0966154),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1327286 -30.0966154),-51.1327286,-30.0966154
+204765,Porto Alegre,Não Informado,POINT (-51.09622 -30.01447),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.09622 -30.01447),-51.09622,-30.01447
+204766,Porto Alegre,Não Informado,POINT (-51.20106 -30.00099),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.20106 -30.00099),-51.20106,-30.00099
+204767,Porto Alegre,Não Informado,POINT (-51.15527 -30.01249),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.15527 -30.01249),-51.15527,-30.01249
+204768,Porto Alegre,Particular,POINT (-51.13296 -29.99146),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.13296 -29.99146),-51.13296,-29.99146
+204769,Porto Alegre,Particular,POINT (-51.14875 -30.01315),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.14875 -30.01315),-51.14875,-30.01315
+204771,Porto Alegre,Confessional,POINT (-51.14687545 -30.01367417),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.14687545 -30.01367417),-51.14687545,-30.01367417
+204772,Porto Alegre,Não Informado,POINT (-51.23147 -30.03758),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23147 -30.03758),-51.23147,-30.03758
+204773,Porto Alegre,Não Informado,POINT (-51.23766 -30.03469),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23766 -30.03469),-51.23766,-30.03469
+204774,Porto Alegre,Não Informado,POINT (-51.23297 -30.03115),,,Urbana,Privada,POINT (-51.23297 -30.03115),-51.23297,-30.03115
+204775,Porto Alegre,Não Informado,POINT (-51.2215 -30.02567),Mais de 1000 matrículas de escolarização,,Urbana,Federal,POINT (-51.2215 -30.02567),-51.2215,-30.02567
+204776,Porto Alegre,Particular,POINT (-51.14904 -30.01472),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.14904 -30.01472),-51.14904,-30.01472
+204777,Porto Alegre,Não Informado,POINT (-51.156 -30.07),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.156 -30.07),-51.156,-30.07
+204778,Porto Alegre,Não Informado,POINT (-51.15732 -30.0345),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.15732 -30.0345),-51.15732,-30.0345
+204779,Porto Alegre,Não Informado,POINT (-51.13434 -30.07483),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13434 -30.07483),-51.13434,-30.07483
+204780,Porto Alegre,Não Informado,POINT (-51.21523 -30.06848),,,Urbana,Estadual,POINT (-51.21523 -30.06848),-51.21523,-30.06848
+204781,Porto Alegre,Não Informado,POINT (-51.21015 -30.11576),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21015 -30.11576),-51.21015,-30.11576
+204782,Porto Alegre,Não Informado,POINT (-51.23483 -30.11127),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23483 -30.11127),-51.23483,-30.11127
+204784,Porto Alegre,Não Informado,POINT (-51.25968 -30.01414),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.25968 -30.01414),-51.25968,-30.01414
+204786,Porto Alegre,Não Informado,POINT (-51.12168 -30.0154),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.12168 -30.0154),-51.12168,-30.0154
+204787,Porto Alegre,Não Informado,POINT (-51.14277 -30.00297),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.14277 -30.00297),-51.14277,-30.00297
+204788,Porto Alegre,Não Informado,POINT (-51.21344 -30.03172),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.21344 -30.03172),-51.21344,-30.03172
+204789,Porto Alegre,Não Informado,POINT (-51.1523 -30.04387),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1523 -30.04387),-51.1523,-30.04387
+204790,Porto Alegre,Não Informado,POINT (-51.20053 -30.05092),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20053 -30.05092),-51.20053,-30.05092
+204791,Porto Alegre,Não Informado,POINT (-51.18282 -30.15388),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.18282 -30.15388),-51.18282,-30.15388
+204792,Porto Alegre,Não Informado,POINT (-51.12542 -29.98629),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.12542 -29.98629),-51.12542,-29.98629
+204793,Porto Alegre,Não Informado,POINT (-51.16161 -30.06699),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.16161 -30.06699),-51.16161,-30.06699
+204794,Porto Alegre,Não Informado,POINT (-51.19923 -30.0844),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19923 -30.0844),-51.19923,-30.0844
+204795,Porto Alegre,Não Informado,POINT (-51.17517 -30.02433),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17517 -30.02433),-51.17517,-30.02433
+204796,Porto Alegre,Não Informado,POINT (-51.19579 -30.05921),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19579 -30.05921),-51.19579,-30.05921
+204797,Porto Alegre,Não Informado,POINT (-51.13441 -30.21184),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13441 -30.21184),-51.13441,-30.21184
+204798,Porto Alegre,Não Informado,POINT (-51.2057 -30.01035),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.2057 -30.01035),-51.2057,-30.01035
+204799,Porto Alegre,Não Informado,POINT (-51.19089 -30.00055),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19089 -30.00055),-51.19089,-30.00055
+204800,Porto Alegre,Não Informado,POINT (-51.14878 -30.01661),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.14878 -30.01661),-51.14878,-30.01661
+204801,Porto Alegre,Não Informado,POINT (-51.21331 -30.0746),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.21331 -30.0746),-51.21331,-30.0746
+204802,Porto Alegre,Não Informado,POINT (-51.21146 -30.01482),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21146 -30.01482),-51.21146,-30.01482
+204803,Porto Alegre,Não Informado,POINT (-51.2237 -30.04681),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.2237 -30.04681),-51.2237,-30.04681
+204804,Porto Alegre,Não Informado,POINT (-51.1982 -29.99376),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1982 -29.99376),-51.1982,-29.99376
+204805,Porto Alegre,Não Informado,POINT (-51.19275 -29.98028),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19275 -29.98028),-51.19275,-29.98028
+204806,Porto Alegre,Não Informado,POINT (-51.20816 -30.07946),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20816 -30.07946),-51.20816,-30.07946
+204807,Porto Alegre,Não Informado,POINT (-51.16409 -30.03385),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.16409 -30.03385),-51.16409,-30.03385
+204808,Porto Alegre,Não Informado,POINT (-51.22074 -30.14639),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.22074 -30.14639),-51.22074,-30.14639
+204809,Porto Alegre,Não Informado,POINT (-51.16363 -30.04419),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.16363 -30.04419),-51.16363,-30.04419
+204810,Porto Alegre,Não Informado,POINT (-51.22189 -30.06664),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22189 -30.06664),-51.22189,-30.06664
+204811,Porto Alegre,Não Informado,POINT (-51.11149 -30.20936),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.11149 -30.20936),-51.11149,-30.20936
+204812,Porto Alegre,Não Informado,POINT (-51.22821 -30.16444),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.22821 -30.16444),-51.22821,-30.16444
+204813,Porto Alegre,Não Informado,POINT (-51.1991 -30.07432),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.1991 -30.07432),-51.1991,-30.07432
+204814,Porto Alegre,Não Informado,POINT (-51.22536 -30.08045),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.22536 -30.08045),-51.22536,-30.08045
+204815,Porto Alegre,Não Informado,POINT (-51.17197 -30.06095),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.17197 -30.06095),-51.17197,-30.06095
+204816,Porto Alegre,Não Informado,POINT (-51.1614 -30.01881),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1614 -30.01881),-51.1614,-30.01881
+204817,Porto Alegre,Não Informado,POINT (-51.18347 -30.03662),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.18347 -30.03662),-51.18347,-30.03662
+204818,Porto Alegre,Não Informado,POINT (-51.17662 -30.12056),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.17662 -30.12056),-51.17662,-30.12056
+204819,Porto Alegre,Não Informado,POINT (-51.12649 -30.09802),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.12649 -30.09802),-51.12649,-30.09802
+204820,Porto Alegre,Não Informado,POINT (-51.19482 -30.05232),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.19482 -30.05232),-51.19482,-30.05232
+204821,Porto Alegre,Não Informado,POINT (-51.12758 -29.9986),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.12758 -29.9986),-51.12758,-29.9986
+204822,Porto Alegre,Não Informado,POINT (-51.14871 -30.02314),,,Urbana,Estadual,POINT (-51.14871 -30.02314),-51.14871,-30.02314
+204823,Porto Alegre,Não Informado,POINT (-51.1915 -30.06804),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1915 -30.06804),-51.1915,-30.06804
+204824,Porto Alegre,Não Informado,POINT (-51.20935074 -30.1854089),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20935074 -30.1854089),-51.20935074,-30.1854089
+204825,Porto Alegre,Não Informado,POINT (-51.16904 -30.07405),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.16904 -30.07405),-51.16904,-30.07405
+204827,Porto Alegre,Não Informado,POINT (-51.16755 -30.06606),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.16755 -30.06606),-51.16755,-30.06606
+204828,Porto Alegre,Não Informado,POINT (-51.14994 -30.02542),,,Urbana,Estadual,POINT (-51.14994 -30.02542),-51.14994,-30.02542
+204829,Porto Alegre,Não Informado,POINT (-51.17917 -30.1166),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17917 -30.1166),-51.17917,-30.1166
+204830,Porto Alegre,Não Informado,POINT (-51.21467 -30.08991),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21467 -30.08991),-51.21467,-30.08991
+204832,Porto Alegre,Não Informado,POINT (-51.09996 -30.01538),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.09996 -30.01538),-51.09996,-30.01538
+204833,Porto Alegre,Não Informado,POINT (-51.19195 -30.07805),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19195 -30.07805),-51.19195,-30.07805
+204834,Porto Alegre,Não Informado,POINT (-51.23395 -30.03636),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23395 -30.03636),-51.23395,-30.03636
+204835,Porto Alegre,Não Informado,POINT (-51.2274 -30.06336),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.2274 -30.06336),-51.2274,-30.06336
+204837,Porto Alegre,Não Informado,POINT (-51.18342 -30.21193),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.18342 -30.21193),-51.18342,-30.21193
+204839,Porto Alegre,Não Informado,POINT (-51.1796 -30.01946),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1796 -30.01946),-51.1796,-30.01946
+204840,Porto Alegre,Não Informado,POINT (-51.20233 -30.04235),,,Urbana,Estadual,POINT (-51.20233 -30.04235),-51.20233,-30.04235
+204841,Porto Alegre,Não Informado,POINT (-51.23769 -30.09179),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.23769 -30.09179),-51.23769,-30.09179
+204842,Porto Alegre,Não Informado,POINT (-51.16931 -30.04822),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.16931 -30.04822),-51.16931,-30.04822
+204843,Porto Alegre,Não Informado,POINT (-51.09708 -30.22017),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.09708 -30.22017),-51.09708,-30.22017
+204844,Porto Alegre,Não Informado,POINT (-51.20636 -30.05715),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20636 -30.05715),-51.20636,-30.05715
+204845,Porto Alegre,Não Informado,POINT (-51.14999 -30.05372),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.14999 -30.05372),-51.14999,-30.05372
+204846,Porto Alegre,Não Informado,POINT (-51.19647 -30.01867),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.19647 -30.01867),-51.19647,-30.01867
+204847,Porto Alegre,Não Informado,POINT (-51.18072 -30.09066),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.18072 -30.09066),-51.18072,-30.09066
+204848,Porto Alegre,Não Informado,POINT (-51.15333 -30.02262),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.15333 -30.02262),-51.15333,-30.02262
+204850,Porto Alegre,Não Informado,POINT (-51.14051 -30.01039),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.14051 -30.01039),-51.14051,-30.01039
+204854,Porto Alegre,Não Informado,POINT (-51.21253 -30.04575),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.21253 -30.04575),-51.21253,-30.04575
+204855,Porto Alegre,Não Informado,POINT (-51.142 -30.01966),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.142 -30.01966),-51.142,-30.01966
+204856,Porto Alegre,Não Informado,POINT (-51.14194 -30.03176),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.14194 -30.03176),-51.14194,-30.03176
+204858,Porto Alegre,Não Informado,POINT (-51.17393 -30.06771),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17393 -30.06771),-51.17393,-30.06771
+204859,Porto Alegre,Não Informado,POINT (-51.1913 -30.07479),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1913 -30.07479),-51.1913,-30.07479
+204860,Porto Alegre,Não Informado,POINT (-51.18124 -30.00438),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.18124 -30.00438),-51.18124,-30.00438
+204861,Porto Alegre,Não Informado,POINT (-51.15938 -30.06301),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.15938 -30.06301),-51.15938,-30.06301
+204862,Porto Alegre,Não Informado,POINT (-51.14995 -30.05513),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.14995 -30.05513),-51.14995,-30.05513
+204863,Porto Alegre,Não Informado,POINT (-51.22586 -30.04068),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22586 -30.04068),-51.22586,-30.04068
+204864,Porto Alegre,Não Informado,POINT (-51.1886 -30.04733),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1886 -30.04733),-51.1886,-30.04733
+204865,Porto Alegre,Não Informado,POINT (-51.2119 -30.04097),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.2119 -30.04097),-51.2119,-30.04097
+204866,Porto Alegre,Não Informado,POINT (-51.15335 -30.1125),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.15335 -30.1125),-51.15335,-30.1125
+204867,Porto Alegre,Não Informado,POINT (-51.23079 -30.092),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.23079 -30.092),-51.23079,-30.092
+204868,Porto Alegre,Não Informado,POINT (-51.17807 -30.07181),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17807 -30.07181),-51.17807,-30.07181
+204869,Porto Alegre,Não Informado,POINT (-51.12778 -29.98598),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.12778 -29.98598),-51.12778,-29.98598
+204870,Porto Alegre,Não Informado,POINT (-51.15038 -30.02963),,,Urbana,Estadual,POINT (-51.15038 -30.02963),-51.15038,-30.02963
+204871,Porto Alegre,Não Informado,POINT (-51.17321 -30.13709),,,Urbana,Estadual,POINT (-51.17321 -30.13709),-51.17321,-30.13709
+204872,Porto Alegre,Não Informado,POINT (-51.25261 -30.02895),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.25261 -30.02895),-51.25261,-30.02895
+204873,Porto Alegre,Não Informado,POINT (-51.10683 -30.03582),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.10683 -30.03582),-51.10683,-30.03582
+204874,Porto Alegre,Não Informado,POINT (-51.19983 -30.15437),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19983 -30.15437),-51.19983,-30.15437
+204875,Porto Alegre,Não Informado,POINT (-51.21066 -30.06416),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21066 -30.06416),-51.21066,-30.06416
+204876,Porto Alegre,Não Informado,POINT (-51.16359 -30.03823),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.16359 -30.03823),-51.16359,-30.03823
+204877,Porto Alegre,Não Informado,POINT (-51.24946 -30.10794),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.24946 -30.10794),-51.24946,-30.10794
+204878,Porto Alegre,Não Informado,POINT (-51.22735 -30.12988),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22735 -30.12988),-51.22735,-30.12988
+204880,Porto Alegre,Não Informado,POINT (-51.1828 -30.02847),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1828 -30.02847),-51.1828,-30.02847
+204881,Porto Alegre,Não Informado,POINT (-51.16954 -30.21123),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.16954 -30.21123),-51.16954,-30.21123
+204882,Porto Alegre,Não Informado,POINT (-51.13644 -29.98749),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13644 -29.98749),-51.13644,-29.98749
+204883,Porto Alegre,Não Informado,POINT (-51.20134 -30.01503),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20134 -30.01503),-51.20134,-30.01503
+204885,Porto Alegre,Não Informado,POINT (-51.24529 -30.10149),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.24529 -30.10149),-51.24529,-30.10149
+204886,Porto Alegre,Não Informado,POINT (-51.23346 -30.10436),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23346 -30.10436),-51.23346,-30.10436
+204887,Porto Alegre,Não Informado,POINT (-51.21037 -30.02931),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21037 -30.02931),-51.21037,-30.02931
+204888,Porto Alegre,Não Informado,POINT (-51.09662 -30.01412),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.09662 -30.01412),-51.09662,-30.01412
+204889,Porto Alegre,Não Informado,POINT (-51.1043 -30.12474),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1043 -30.12474),-51.1043,-30.12474
+204890,Porto Alegre,Não Informado,POINT (-51.21568 -30.13825),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21568 -30.13825),-51.21568,-30.13825
+204891,Porto Alegre,Não Informado,POINT (-51.24217 -30.078),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.24217 -30.078),-51.24217,-30.078
+204892,Porto Alegre,Não Informado,POINT (-51.14472 -30.17661),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.14472 -30.17661),-51.14472,-30.17661
+204893,Porto Alegre,Não Informado,POINT (-51.19804 -30.13357),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19804 -30.13357),-51.19804,-30.13357
+204894,Porto Alegre,Não Informado,POINT (-51.17752 -30.01617),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17752 -30.01617),-51.17752,-30.01617
+204895,Porto Alegre,Não Informado,POINT (-51.16323 -30.18311),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.16323 -30.18311),-51.16323,-30.18311
+204896,Porto Alegre,Não Informado,POINT (-51.22427 -30.10654),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22427 -30.10654),-51.22427,-30.10654
+204897,Porto Alegre,Não Informado,POINT (-51.22351 -30.08824),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22351 -30.08824),-51.22351,-30.08824
+204899,Porto Alegre,Não Informado,POINT (-51.18628 -30.0122),,,Urbana,Estadual,POINT (-51.18628 -30.0122),-51.18628,-30.0122
+204900,Porto Alegre,Não Informado,POINT (-51.12552 -30.03789),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.12552 -30.03789),-51.12552,-30.03789
+204901,Porto Alegre,Não Informado,POINT (-51.20798 -30.08544),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20798 -30.08544),-51.20798,-30.08544
+204902,Porto Alegre,Não Informado,POINT (-51.08015 -30.24108),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.08015 -30.24108),-51.08015,-30.24108
+204903,Porto Alegre,Não Informado,POINT (-51.22134 -30.07187),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.22134 -30.07187),-51.22134,-30.07187
+204904,Porto Alegre,Não Informado,POINT (-51.12339 -30.03896),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.12339 -30.03896),-51.12339,-30.03896
+204905,Porto Alegre,Não Informado,POINT (-51.15659 -30.00283),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.15659 -30.00283),-51.15659,-30.00283
+204906,Porto Alegre,Não Informado,POINT (-51.17367 -30.00511),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17367 -30.00511),-51.17367,-30.00511
+204907,Porto Alegre,Não Informado,POINT (-51.15886 -29.99831),,,Urbana,Estadual,POINT (-51.15886 -29.99831),-51.15886,-29.99831
+204908,Porto Alegre,Não Informado,POINT (-51.17687 -30.04279),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17687 -30.04279),-51.17687,-30.04279
+204909,Porto Alegre,Não Informado,POINT (-51.16242 -30.00597),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.16242 -30.00597),-51.16242,-30.00597
+204910,Porto Alegre,Não Informado,POINT (-51.23243 -30.11093),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23243 -30.11093),-51.23243,-30.11093
+204911,Porto Alegre,Não Informado,POINT (-51.22038 -30.15579),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22038 -30.15579),-51.22038,-30.15579
+204912,Porto Alegre,Não Informado,POINT (-51.24316 -30.09593),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.24316 -30.09593),-51.24316,-30.09593
+204913,Porto Alegre,Não Informado,POINT (-51.2227 -30.03681),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.2227 -30.03681),-51.2227,-30.03681
+204914,Porto Alegre,Não Informado,POINT (-51.23222 -30.09793),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23222 -30.09793),-51.23222,-30.09793
+204915,Porto Alegre,Não Informado,POINT (-51.21874 -30.05359),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21874 -30.05359),-51.21874,-30.05359
+204916,Porto Alegre,Não Informado,POINT (-51.23029 -30.0745),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23029 -30.0745),-51.23029,-30.0745
+204917,Porto Alegre,Não Informado,POINT (-51.10037 -29.99646),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.10037 -29.99646),-51.10037,-29.99646
+204920,Porto Alegre,Não Informado,POINT (-51.1701 -30.07814),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1701 -30.07814),-51.1701,-30.07814
+204921,Porto Alegre,Não Informado,POINT (-51.198846530749 -30.0279089334733),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.198846530749 -30.0279089334733),-51.198846530749,-30.0279089334733
+204923,Porto Alegre,Não Informado,POINT (-51.20397 -30.07359),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20397 -30.07359),-51.20397,-30.07359
+204924,Porto Alegre,Não Informado,POINT (-51.14605 -30.04887),Entre 201 e 500 matrículas de escolarização,Atividade Complementar,Urbana,Estadual,POINT (-51.14605 -30.04887),-51.14605,-30.04887
+204925,Porto Alegre,Não Informado,POINT (-51.19507 -29.9858),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19507 -29.9858),-51.19507,-29.9858
+204926,Porto Alegre,Não Informado,POINT (-51.1296 -30.00711),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.1296 -30.00711),-51.1296,-30.00711
+204927,Porto Alegre,Não Informado,POINT (-51.13998 -30.15785),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13998 -30.15785),-51.13998,-30.15785
+204928,Porto Alegre,Não Informado,POINT (-51.2013 -30.06239),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.2013 -30.06239),-51.2013,-30.06239
+204929,Porto Alegre,Não Informado,POINT (-51.18854 -30.02511),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.18854 -30.02511),-51.18854,-30.02511
+204930,Porto Alegre,Não Informado,POINT (-51.22894 -30.10233),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.22894 -30.10233),-51.22894,-30.10233
+204931,Porto Alegre,Particular,POINT (-51.20276 -30.07521),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.20276 -30.07521),-51.20276,-30.07521
+204932,Porto Alegre,Particular,POINT (-51.1801432 -30.0119125),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.1801432 -30.0119125),-51.1801432,-30.0119125
+204933,Porto Alegre,Filantrópica,POINT (-51.1971 -30.04304),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.1971 -30.04304),-51.1971,-30.04304
+204934,Porto Alegre,Particular,POINT (-51.14640312 -30.02388985),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.14640312 -30.02388985),-51.14640312,-30.02388985
+204935,Porto Alegre,Particular,POINT (-51.226645 -30.0421883333333),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.226645 -30.0421883333333),-51.226645,-30.0421883333333
+204936,Porto Alegre,Particular,POINT (-51.24826 -30.11222),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.24826 -30.11222),-51.24826,-30.11222
+204937,Porto Alegre,Particular,POINT (-51.22352 -30.06148),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.22352 -30.06148),-51.22352,-30.06148
+204938,Porto Alegre,Particular,POINT (-51.21737 -30.05019),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.21737 -30.05019),-51.21737,-30.05019
+204939,Porto Alegre,Filantrópica,POINT (-51.22693 -30.04063),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.22693 -30.04063),-51.22693,-30.04063
+204940,Porto Alegre,Particular,POINT (-51.19943 -30.00939),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.19943 -30.00939),-51.19943,-30.00939
+204941,Porto Alegre,Não Informado,POINT (-51.20892 -30.07849),,,Urbana,Privada,POINT (-51.20892 -30.07849),-51.20892,-30.07849
+204942,Porto Alegre,Não Informado,POINT (-51.13466 -29.98212),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13466 -29.98212),-51.13466,-29.98212
+204943,Porto Alegre,Não Informado,POINT (-51.20119 -30.04408),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20119 -30.04408),-51.20119,-30.04408
+204944,Porto Alegre,Particular,POINT (-51.18677 -30.01213),Mais de 1000 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.18677 -30.01213),-51.18677,-30.01213
+204945,Porto Alegre,Não Informado,POINT (-51.1053264 -29.9935218),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1053264 -29.9935218),-51.1053264,-29.9935218
+204946,Porto Alegre,Particular,POINT (-51.20051 -30.03629),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.20051 -30.03629),-51.20051,-30.03629
+204947,Porto Alegre,Particular,POINT (-51.22794 -30.112),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.22794 -30.112),-51.22794,-30.112
+204948,Porto Alegre,Particular,POINT (-51.12572 -29.99585),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.12572 -29.99585),-51.12572,-29.99585
+204949,Porto Alegre,Filantrópica,POINT (-51.21484 -30.07623),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.21484 -30.07623),-51.21484,-30.07623
+204950,Porto Alegre,Não Informado,POINT (-51.21719 -30.03319),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.21719 -30.03319),-51.21719,-30.03319
+204951,Porto Alegre,Particular,POINT (-51.1536127 -30.0117946),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.1536127 -30.0117946),-51.1536127,-30.0117946
+204952,Porto Alegre,Filantrópica,POINT (-51.12594 -29.9955),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.12594 -29.9955),-51.12594,-29.9955
+204953,Porto Alegre,Filantrópica,POINT (-51.1691541597247 -30.0101974792778),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.1691541597247 -30.0101974792778),-51.1691541597247,-30.0101974792778
+204954,Porto Alegre,Particular,POINT (-51.20717 -30.08583),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20717 -30.08583),-51.20717,-30.08583
+204955,Porto Alegre,Não Informado,POINT (-51.2194199 -30.0444286),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2194199 -30.0444286),-51.2194199,-30.0444286
+204956,Porto Alegre,Não Informado,POINT (-51.2051754 -30.0277365),Até 50 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2051754 -30.0277365),-51.2051754,-30.0277365
+204957,Porto Alegre,Não Informado,POINT (-51.2050971 -30.0520634),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2050971 -30.0520634),-51.2050971,-30.0520634
+204958,Porto Alegre,Não Informado,POINT (-51.2104383 -30.0209067),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2104383 -30.0209067),-51.2104383,-30.0209067
+204959,Porto Alegre,Não Informado,POINT (-51.1960358 -30.0114826),Até 50 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1960358 -30.0114826),-51.1960358,-30.0114826
+204960,Porto Alegre,Não Informado,POINT (-51.2367028 -30.0347851),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2367028 -30.0347851),-51.2367028,-30.0347851
+204961,Porto Alegre,Particular,POINT (-51.1359147 -30.0109409),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1359147 -30.0109409),-51.1359147,-30.0109409
+204962,Porto Alegre,Particular,POINT (-51.17567 -30.06653),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.17567 -30.06653),-51.17567,-30.06653
+204963,Porto Alegre,Não Informado,POINT (-51.19499 -29.97939),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19499 -29.97939),-51.19499,-29.97939
+204965,Porto Alegre,Não Informado,POINT (-51.143048 -30.153136),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.143048 -30.153136),-51.143048,-30.153136
+204966,Porto Alegre,Não Informado,POINT (-51.23818 -30.07112),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23818 -30.07112),-51.23818,-30.07112
+204967,Porto Alegre,Particular,POINT (-51.0974 -30.01256),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.0974 -30.01256),-51.0974,-30.01256
+204968,Porto Alegre,Não Informado,POINT (-51.25397 -30.11093),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.25397 -30.11093),-51.25397,-30.11093
+204969,Porto Alegre,Não Informado,POINT (-51.18813 -30.06866),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.18813 -30.06866),-51.18813,-30.06866
+204970,Porto Alegre,Não Informado,POINT (-51.19985 -30.01063),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19985 -30.01063),-51.19985,-30.01063
+204971,Porto Alegre,Não Informado,POINT (-51.1905 -30.00592),,,Urbana,Estadual,POINT (-51.1905 -30.00592),-51.1905,-30.00592
+204972,Porto Alegre,Não Informado,POINT (-51.116 -30.0814),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.116 -30.0814),-51.116,-30.0814
+204973,Porto Alegre,Particular,POINT (-51.24155 -30.10778),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.24155 -30.10778),-51.24155,-30.10778
+204974,Porto Alegre,Não Informado,POINT (-51.14543 -30.1482),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.14543 -30.1482),-51.14543,-30.1482
+204975,Porto Alegre,Não Informado,POINT (-51.14859 -30.0027),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.14859 -30.0027),-51.14859,-30.0027
+204976,Porto Alegre,Não Informado,POINT (-51.21115 -30.04802),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21115 -30.04802),-51.21115,-30.04802
+204977,Porto Alegre,Não Informado,POINT (-51.21334 -30.02452),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21334 -30.02452),-51.21334,-30.02452
+204978,Porto Alegre,Não Informado,POINT (-51.19166 -30.02423),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19166 -30.02423),-51.19166,-30.02423
+204979,Porto Alegre,Não Informado,POINT (-51.13759 -29.99945),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.13759 -29.99945),-51.13759,-29.99945
+204980,Porto Alegre,Não Informado,POINT (-51.19858 -30.04018),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.19858 -30.04018),-51.19858,-30.04018
+204981,Porto Alegre,Não Informado,POINT (-51.26028 -30.10203),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.26028 -30.10203),-51.26028,-30.10203
+204982,Porto Alegre,Não Informado,POINT (-51.1849 -30.06943),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1849 -30.06943),-51.1849,-30.06943
+204984,Porto Alegre,Não Informado,POINT (-51.22492 -30.13692),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.22492 -30.13692),-51.22492,-30.13692
+204985,Porto Alegre,Não Informado,POINT (-51.17679 -30.20959),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17679 -30.20959),-51.17679,-30.20959
+204987,Porto Alegre,Não Informado,POINT (-51.18141 -30.04059),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.18141 -30.04059),-51.18141,-30.04059
+204988,Porto Alegre,Particular,POINT (-51.2296888 -30.0374341),Entre 201 e 500 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.2296888 -30.0374341),-51.2296888,-30.0374341
+204989,Porto Alegre,Particular,POINT (-51.2243516 -30.060817),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2243516 -30.060817),-51.2243516,-30.060817
+204990,Porto Alegre,Particular,POINT (-51.2289187401397 -30.0491961454351),Mais de 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.2289187401397 -30.0491961454351),-51.2289187401397,-30.0491961454351
+204991,Porto Alegre,Não Informado,POINT (-51.22559 -30.03993),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22559 -30.03993),-51.22559,-30.03993
+204992,Porto Alegre,Não Informado,POINT (-51.1515 -30.02977),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.1515 -30.02977),-51.1515,-30.02977
+204994,Porto Alegre,Não Informado,POINT (-51.15919 -30.05826),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.15919 -30.05826),-51.15919,-30.05826
+204996,Porto Alegre,Não Informado,POINT (-51.22197 -30.09432),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22197 -30.09432),-51.22197,-30.09432
+204997,Porto Alegre,Não Informado,POINT (-51.2314 -30.03417),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.2314 -30.03417),-51.2314,-30.03417
+204998,Porto Alegre,Não Informado,POINT (-51.19256 -29.99334),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19256 -29.99334),-51.19256,-29.99334
+204999,Porto Alegre,Particular,POINT (-51.18095 -30.03388),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18095 -30.03388),-51.18095,-30.03388
+205000,Porto Alegre,Particular,POINT (-51.1969 -30.02799),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1969 -30.02799),-51.1969,-30.02799
+205001,Porto Alegre,Não Informado,POINT (-51.1319 -30.02739),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1319 -30.02739),-51.1319,-30.02739
+205002,Porto Alegre,Não Informado,POINT (-51.11036 -30.01821),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.11036 -30.01821),-51.11036,-30.01821
+205003,Porto Alegre,Não Informado,POINT (-51.12017 -30.0079),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.12017 -30.0079),-51.12017,-30.0079
+205005,Porto Alegre,Não Informado,POINT (-51.09573 -30.00791),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.09573 -30.00791),-51.09573,-30.00791
+205006,Porto Alegre,Não Informado,POINT (-51.11028 -30.00448),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.11028 -30.00448),-51.11028,-30.00448
+205007,Porto Alegre,Não Informado,POINT (-51.2014856 -30.005076),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2014856 -30.005076),-51.2014856,-30.005076
+205008,Porto Alegre,Não Informado,POINT (-51.13477 -30.04011),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13477 -30.04011),-51.13477,-30.04011
+205009,Porto Alegre,Não Informado,POINT (-51.17455 -29.97687),Até 50 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17455 -29.97687),-51.17455,-29.97687
+205010,Porto Alegre,Particular,POINT (-51.17296847 -30.02477745),Mais de 1000 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.17296847 -30.02477745),-51.17296847,-30.02477745
+205011,Porto Alegre,Particular,POINT (-51.22531 -30.05612),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22531 -30.05612),-51.22531,-30.05612
+205012,Porto Alegre,Não Informado,POINT (-51.09129 -29.99715),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.09129 -29.99715),-51.09129,-29.99715
+205013,Porto Alegre,Não Informado,POINT (-51.18626 -30.05282),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.18626 -30.05282),-51.18626,-30.05282
+205014,Porto Alegre,Não Informado,POINT (-51.10189 -30.00142),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.10189 -30.00142),-51.10189,-30.00142
+205016,Porto Alegre,Particular,POINT (-51.15013 -30.00848),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15013 -30.00848),-51.15013,-30.00848
+205017,Porto Alegre,Não Informado,POINT (-51.1168 -30.01707),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.1168 -30.01707),-51.1168,-30.01707
+205018,Porto Alegre,Não Informado,POINT (-51.1259201 -29.9792095),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1259201 -29.9792095),-51.1259201,-29.9792095
+205019,Porto Alegre,Não Informado,POINT (-51.1034918 -30.024567),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1034918 -30.024567),-51.1034918,-30.024567
+205020,Porto Alegre,Comunitária,POINT (-51.1950563 -30.0231757),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1950563 -30.0231757),-51.1950563,-30.0231757
+205021,Porto Alegre,Particular,POINT (-51.18584 -30.04064),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18584 -30.04064),-51.18584,-30.04064
+205022,Porto Alegre,Não Informado,POINT (-51.23782 -30.08784),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.23782 -30.08784),-51.23782,-30.08784
+205023,Porto Alegre,Não Informado,POINT (-51.22702 -30.11489),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.22702 -30.11489),-51.22702,-30.11489
+205024,Porto Alegre,Não Informado,POINT (-51.13521 -30.0847),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13521 -30.0847),-51.13521,-30.0847
+205025,Porto Alegre,Não Informado,POINT (-51.21673 -30.04639),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21673 -30.04639),-51.21673,-30.04639
+205026,Porto Alegre,Não Informado,POINT (-51.21745 -30.06306),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21745 -30.06306),-51.21745,-30.06306
+205027,Porto Alegre,Não Informado,POINT (-51.19332 -30.06337),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.19332 -30.06337),-51.19332,-30.06337
+205028,Porto Alegre,Não Informado,POINT (-51.22645 -30.05398),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22645 -30.05398),-51.22645,-30.05398
+205030,Porto Alegre,Não Informado,POINT (-51.22966 -30.08436),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22966 -30.08436),-51.22966,-30.08436
+205031,Porto Alegre,Não Informado,POINT (-51.11465 -30.11542),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.11465 -30.11542),-51.11465,-30.11542
+205033,Porto Alegre,Particular,POINT (-51.2261105 -30.0606924),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2261105 -30.0606924),-51.2261105,-30.0606924
+205034,Porto Alegre,Não Informado,POINT (-51.1709 -30.10402),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.1709 -30.10402),-51.1709,-30.10402
+205035,Porto Alegre,Filantrópica,POINT (-51.12541 -30.08963),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.12541 -30.08963),-51.12541,-30.08963
+205036,Porto Alegre,Comunitária,POINT (-51.2006183 -30.0500031),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2006183 -30.0500031),-51.2006183,-30.0500031
+205037,Porto Alegre,Filantrópica,POINT (-51.19248 -30.06628),Entre 51 e 200 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.19248 -30.06628),-51.19248,-30.06628
+205038,Porto Alegre,Não Informado,POINT (-51.18453 -30.06908),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.18453 -30.06908),-51.18453,-30.06908
+205039,Porto Alegre,Não Informado,POINT (-51.20832 -30.0692),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20832 -30.0692),-51.20832,-30.0692
+205041,Porto Alegre,Particular,POINT (-51.22091 -30.05763),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22091 -30.05763),-51.22091,-30.05763
+205042,Porto Alegre,Particular,POINT (-51.22819 -30.0564),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22819 -30.0564),-51.22819,-30.0564
+205043,Porto Alegre,Não Informado,POINT (-51.16348 -30.06647),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.16348 -30.06647),-51.16348,-30.06647
+205044,Porto Alegre,Não Informado,POINT (-51.19684 -30.05716),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19684 -30.05716),-51.19684,-30.05716
+205045,Porto Alegre,Não Informado,POINT (-51.19272 -30.05763),Entre 201 e 500 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.19272 -30.05763),-51.19272,-30.05763
+205046,Porto Alegre,Particular,POINT (-51.21688 -30.05666),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21688 -30.05666),-51.21688,-30.05666
+205047,Porto Alegre,Não Informado,POINT (-51.1628046 -30.0759981),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1628046 -30.0759981),-51.1628046,-30.0759981
+205048,Porto Alegre,Não Informado,POINT (-51.2163347 -30.1293679),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2163347 -30.1293679),-51.2163347,-30.1293679
+205049,Porto Alegre,Não Informado,POINT (-51.2111718 -30.1370495),Entre 51 e 200 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2111718 -30.1370495),-51.2111718,-30.1370495
+205050,Porto Alegre,Não Informado,POINT (-51.1359911 -30.1566083),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1359911 -30.1566083),-51.1359911,-30.1566083
+205051,Porto Alegre,Não Informado,POINT (-51.1441432 -30.150945),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Municipal,POINT (-51.1441432 -30.150945),-51.1441432,-30.150945
+205052,Porto Alegre,Não Informado,POINT (-51.228132 -30.0854815),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.228132 -30.0854815),-51.228132,-30.0854815
+205053,Porto Alegre,Não Informado,POINT (-51.23152 -30.08163),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.23152 -30.08163),-51.23152,-30.08163
+205054,Porto Alegre,Não Informado,POINT (-51.173391 -30.0765669),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.173391 -30.0765669),-51.173391,-30.0765669
+205055,Porto Alegre,Particular,POINT (-51.1825302 -30.0360081),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.1825302 -30.0360081),-51.1825302,-30.0360081
+205056,Porto Alegre,Não Informado,POINT (-51.1435999 -30.1614086),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1435999 -30.1614086),-51.1435999,-30.1614086
+205057,Porto Alegre,Particular,POINT (-51.1683173882653 -30.0652948693782),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.1683173882653 -30.0652948693782),-51.1683173882653,-30.0652948693782
+205058,Porto Alegre,Não Informado,POINT (-51.18791 -29.98),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.18791 -29.98),-51.18791,-29.98
+205059,Porto Alegre,Não Informado,POINT (-51.13146 -30.01186),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.13146 -30.01186),-51.13146,-30.01186
+205060,Porto Alegre,Não Informado,POINT (-51.1253145 -30.0317282),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1253145 -30.0317282),-51.1253145,-30.0317282
+205061,Porto Alegre,Não Informado,POINT (-51.1234314 -30.0178389),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1234314 -30.0178389),-51.1234314,-30.0178389
+205062,Porto Alegre,Não Informado,POINT (-51.0929043 -30.0001303),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.0929043 -30.0001303),-51.0929043,-30.0001303
+205063,Porto Alegre,Não Informado,POINT (-51.1162944 -30.0355816),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1162944 -30.0355816),-51.1162944,-30.0355816
+205064,Porto Alegre,Não Informado,POINT (-51.2003331 -30.0841445),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2003331 -30.0841445),-51.2003331,-30.0841445
+205065,Porto Alegre,Não Informado,POINT (-51.19044 -30.09812),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.19044 -30.09812),-51.19044,-30.09812
+205066,Porto Alegre,Não Informado,POINT (-51.2091 -30.127),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.2091 -30.127),-51.2091,-30.127
+205067,Porto Alegre,Não Informado,POINT (-51.13573 -30.04762),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13573 -30.04762),-51.13573,-30.04762
+205068,Porto Alegre,Particular,POINT (-51.1854 -30.01743),Entre 51 e 200 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.1854 -30.01743),-51.1854,-30.01743
+205069,Porto Alegre,Particular,POINT (-51.2058 -30.08148),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.2058 -30.08148),-51.2058,-30.08148
+205071,Porto Alegre,Particular,POINT (-51.173795 -30.0249083333333),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.173795 -30.0249083333333),-51.173795,-30.0249083333333
+205072,Porto Alegre,Não Informado,POINT (-51.20559 -30.06199),Até 50 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20559 -30.06199),-51.20559,-30.06199
+205073,Porto Alegre,Particular,POINT (-51.2030748836696 -30.037749465555),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.2030748836696 -30.037749465555),-51.2030748836696,-30.037749465555
+206507,Porto Alegre,Não Informado,POINT (-51.1002986 -30.0074714),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1002986 -30.0074714),-51.1002986,-30.0074714
+206508,Porto Alegre,Particular,POINT (-51.1842275038838 -30.013631042121),Entre 51 e 200 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.1842275038838 -30.013631042121),-51.1842275038838,-30.013631042121
+206529,Porto Alegre,Filantrópica,POINT (-51.0694994 -30.2245808),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0694994 -30.2245808),-51.0694994,-30.2245808
+206536,Porto Alegre,Comunitária,POINT (-51.1391156 -30.1646389),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1391156 -30.1646389),-51.1391156,-30.1646389
+206543,Porto Alegre,Comunitária,POINT (-51.1690806504339 -30.0157440779731),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1690806504339 -30.0157440779731),-51.1690806504339,-30.0157440779731
+206776,Porto Alegre,Particular,POINT (-51.1533572 -30.0202964),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1533572 -30.0202964),-51.1533572,-30.0202964
+207302,Porto Alegre,Comunitária,POINT (-51.1490971 -30.0596861),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1490971 -30.0596861),-51.1490971,-30.0596861
+207546,Porto Alegre,Não Informado,POINT (-51.0980695 -30.1236576),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.0980695 -30.1236576),-51.0980695,-30.1236576
+207576,Porto Alegre,Não Informado,POINT (-51.1008335 -30.1128568),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1008335 -30.1128568),-51.1008335,-30.1128568
+207636,Porto Alegre,Não Informado,POINT (-51.22144 -30.04657),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Estadual,POINT (-51.22144 -30.04657),-51.22144,-30.04657
+207637,Porto Alegre,Não Informado,POINT (-51.19661 -30.02013),Mais de 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.19661 -30.02013),-51.19661,-30.02013
+207638,Porto Alegre,Não Informado,POINT (-51.18285 -30.07106),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.18285 -30.07106),-51.18285,-30.07106
+207655,Porto Alegre,Não Informado,POINT (-51.1555552 -30.0482634),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1555552 -30.0482634),-51.1555552,-30.0482634
+207773,Porto Alegre,Não Informado,POINT (-51.10487 -30.01919),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.10487 -30.01919),-51.10487,-30.01919
+207815,Porto Alegre,Particular,POINT (-51.15395 -30.01593),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15395 -30.01593),-51.15395,-30.01593
+207853,Porto Alegre,Particular,POINT (-51.14225 -30.14891),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.14225 -30.14891),-51.14225,-30.14891
+207854,Porto Alegre,Particular,POINT (-51.20292 -30.03422),Entre 501 e 1000 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.20292 -30.03422),-51.20292,-30.03422
+207855,Porto Alegre,Particular,POINT (-51.24574 -30.09512),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.24574 -30.09512),-51.24574,-30.09512
+207856,Porto Alegre,Não Informado,POINT (-51.0953809 -30.0047731),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.0953809 -30.0047731),-51.0953809,-30.0047731
+207857,Porto Alegre,Não Informado,POINT (-51.1857907 -29.9803403),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1857907 -29.9803403),-51.1857907,-29.9803403
+207858,Porto Alegre,Não Informado,POINT (-51.2003703 -30.1597943),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2003703 -30.1597943),-51.2003703,-30.1597943
+207898,Porto Alegre,Não Informado,POINT (-51.21747 -30.05606),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21747 -30.05606),-51.21747,-30.05606
+207903,Porto Alegre,Não Informado,POINT (-51.22719 -30.12844),,,Urbana,Estadual,POINT (-51.22719 -30.12844),-51.22719,-30.12844
+207907,Porto Alegre,Não Informado,POINT (-51.13164 -29.9832),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.13164 -29.9832),-51.13164,-29.9832
+207908,Porto Alegre,Particular,POINT (-51.21264 -30.12082),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.21264 -30.12082),-51.21264,-30.12082
+207909,Porto Alegre,Particular,POINT (-51.23891 -30.12594),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.23891 -30.12594),-51.23891,-30.12594
+207910,Porto Alegre,Particular,POINT (-51.22832 -30.07106),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22832 -30.07106),-51.22832,-30.07106
+207920,Porto Alegre,Não Informado,POINT (-51.1443758 -30.0397045),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1443758 -30.0397045),-51.1443758,-30.0397045
+207921,Porto Alegre,Não Informado,POINT (-51.1675247 -30.0661069),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1675247 -30.0661069),-51.1675247,-30.0661069
+207922,Porto Alegre,Não Informado,POINT (-51.2354843 -30.1114655),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2354843 -30.1114655),-51.2354843,-30.1114655
+207923,Porto Alegre,Não Informado,POINT (-51.13468173 -30.09624198),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.13468173 -30.09624198),-51.13468173,-30.09624198
+207924,Porto Alegre,Não Informado,POINT (-51.1107273 -30.1105581),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1107273 -30.1105581),-51.1107273,-30.1105581
+207925,Porto Alegre,Não Informado,POINT (-51.0947984 -30.0042507),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.0947984 -30.0042507),-51.0947984,-30.0042507
+207926,Porto Alegre,Não Informado,POINT (-51.2158893 -30.046615),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2158893 -30.046615),-51.2158893,-30.046615
+207927,Porto Alegre,Não Informado,POINT (-51.1699917 -30.0708157),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1699917 -30.0708157),-51.1699917,-30.0708157
+207928,Porto Alegre,Não Informado,POINT (-51.2158411 -30.0690042),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2158411 -30.0690042),-51.2158411,-30.0690042
+207929,Porto Alegre,Não Informado,POINT (-51.1055467 -29.9931756),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1055467 -29.9931756),-51.1055467,-29.9931756
+207930,Porto Alegre,Não Informado,POINT (-51.1453061 -30.1487999),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1453061 -30.1487999),-51.1453061,-30.1487999
+207931,Porto Alegre,Não Informado,POINT (-51.1442629 -30.1529443),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1442629 -30.1529443),-51.1442629,-30.1529443
+207932,Porto Alegre,Não Informado,POINT (-51.1396179 -30.1504641),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1396179 -30.1504641),-51.1396179,-30.1504641
+207933,Porto Alegre,Não Informado,POINT (-51.2096157 -30.1264141),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2096157 -30.1264141),-51.2096157,-30.1264141
+207934,Porto Alegre,Não Informado,POINT (-51.134001 -30.0970967),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.134001 -30.0970967),-51.134001,-30.0970967
+207935,Porto Alegre,Não Informado,POINT (-51.1563905 -30.0033614),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1563905 -30.0033614),-51.1563905,-30.0033614
+207936,Porto Alegre,Não Informado,POINT (-51.1270635 -29.9804291),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1270635 -29.9804291),-51.1270635,-29.9804291
+207937,Porto Alegre,Não Informado,POINT (-51.1437566 -30.0405272),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1437566 -30.0405272),-51.1437566,-30.0405272
+207938,Porto Alegre,Não Informado,POINT (-51.1943738 -30.0604561),,,Urbana,Municipal,POINT (-51.1943738 -30.0604561),-51.1943738,-30.0604561
+207939,Porto Alegre,Não Informado,POINT (-51.2194108 -30.1249057),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2194108 -30.1249057),-51.2194108,-30.1249057
+207940,Porto Alegre,Não Informado,POINT (-51.0964984 -30.0080468),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.0964984 -30.0080468),-51.0964984,-30.0080468
+207941,Porto Alegre,Não Informado,POINT (-51.2202405 -30.1165695),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2202405 -30.1165695),-51.2202405,-30.1165695
+207942,Porto Alegre,Não Informado,POINT (-51.1553747 -30.069282),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1553747 -30.069282),-51.1553747,-30.069282
+207943,Porto Alegre,Não Informado,POINT (-51.1276651 -30.0147778),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1276651 -30.0147778),-51.1276651,-30.0147778
+207944,Porto Alegre,Não Informado,POINT (-51.2293697 -30.0995309),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2293697 -30.0995309),-51.2293697,-30.0995309
+207945,Porto Alegre,Não Informado,POINT (-51.2005351 -30.1193126),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2005351 -30.1193126),-51.2005351,-30.1193126
+207946,Porto Alegre,Não Informado,POINT (-51.0993118 -30.0261595),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.0993118 -30.0261595),-51.0993118,-30.0261595
+207990,Porto Alegre,Não Informado,POINT (-51.17698 -30.01524),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17698 -30.01524),-51.17698,-30.01524
+207991,Porto Alegre,Não Informado,POINT (-51.15239 -30.01224),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.15239 -30.01224),-51.15239,-30.01224
+207992,Porto Alegre,Não Informado,POINT (-51.21479 -30.04728),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.21479 -30.04728),-51.21479,-30.04728
+208017,Porto Alegre,Particular,POINT (-51.23714 -30.10819),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.23714 -30.10819),-51.23714,-30.10819
+208050,Porto Alegre,Não Informado,POINT (-51.2180076 -30.1222659),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2180076 -30.1222659),-51.2180076,-30.1222659
+208051,Porto Alegre,Não Informado,POINT (-51.2102608 -30.1850375),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2102608 -30.1850375),-51.2102608,-30.1850375
+208052,Porto Alegre,Não Informado,POINT (-51.185406 -29.980443),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.185406 -29.980443),-51.185406,-29.980443
+208053,Porto Alegre,Não Informado,POINT (-51.10676 -29.99629),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.10676 -29.99629),-51.10676,-29.99629
+208054,Porto Alegre,Não Informado,POINT (-51.2605022 -30.0167318),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2605022 -30.0167318),-51.2605022,-30.0167318
+208074,Porto Alegre,Particular,POINT (-51.22968 -30.02994),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.22968 -30.02994),-51.22968,-30.02994
+208075,Porto Alegre,Particular,POINT (-51.22698 -30.03378),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.22698 -30.03378),-51.22698,-30.03378
+208116,Porto Alegre,Particular,POINT (-51.2008366640657 -30.0003404868767),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.2008366640657 -30.0003404868767),-51.2008366640657,-30.0003404868767
+208120,Porto Alegre,Não Informado,POINT (-51.2288 -30.03053),,,Urbana,Privada,POINT (-51.2288 -30.03053),-51.2288,-30.03053
+208147,Porto Alegre,Não Informado,POINT (-51.2099555 -30.0420316),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2099555 -30.0420316),-51.2099555,-30.0420316
+208148,Porto Alegre,Não Informado,POINT (-51.1578436 -29.9869276),Entre 51 e 200 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1578436 -29.9869276),-51.1578436,-29.9869276
+208149,Porto Alegre,Não Informado,POINT (-51.1116257 -30.0307294),Entre 201 e 500 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1116257 -30.0307294),-51.1116257,-30.0307294
+208150,Porto Alegre,Não Informado,POINT (-51.1607964 -30.0778233),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1607964 -30.0778233),-51.1607964,-30.0778233
+208151,Porto Alegre,Não Informado,POINT (-51.2283722 -30.1171653),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.2283722 -30.1171653),-51.2283722,-30.1171653
+208152,Porto Alegre,Não Informado,POINT (-51.2393501 -30.0362266),Entre 51 e 200 matrículas de escolarização,Atividade Complementar,Urbana,Municipal,POINT (-51.2393501 -30.0362266),-51.2393501,-30.0362266
+208198,Porto Alegre,Não Informado,POINT (-51.1124857 -30.0316218),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1124857 -30.0316218),-51.1124857,-30.0316218
+208250,Porto Alegre,Particular,POINT (-51.2295 -30.03191),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.2295 -30.03191),-51.2295,-30.03191
+208251,Porto Alegre,Particular,POINT (-51.22468 -30.03074),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.22468 -30.03074),-51.22468,-30.03074
+208255,Porto Alegre,Particular,POINT (-51.1717805291693 -30.0113263678185),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.1717805291693 -30.0113263678185),-51.1717805291693,-30.0113263678185
+208261,Porto Alegre,Filantrópica,POINT (-51.23943 -30.1305),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.23943 -30.1305),-51.23943,-30.1305
+208283,Porto Alegre,Não Informado,POINT (-51.1664009 -30.0541754),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Municipal,POINT (-51.1664009 -30.0541754),-51.1664009,-30.0541754
+208284,Porto Alegre,Não Informado,POINT (-51.2381584 -30.0868371),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Municipal,POINT (-51.2381584 -30.0868371),-51.2381584,-30.0868371
+208285,Porto Alegre,Não Informado,POINT (-51.1457951 -30.0340298),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Municipal,POINT (-51.1457951 -30.0340298),-51.1457951,-30.0340298
+208286,Porto Alegre,Não Informado,POINT (-51.1459471 -30.1501388),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Municipal,POINT (-51.1459471 -30.1501388),-51.1459471,-30.1501388
+208287,Porto Alegre,Filantrópica,POINT (-51.230490831706 -30.1289429795278),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.230490831706 -30.1289429795278),-51.230490831706,-30.1289429795278
+208288,Porto Alegre,Filantrópica,POINT (-51.20162 -30.05846),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20162 -30.05846),-51.20162,-30.05846
+208289,Porto Alegre,Filantrópica,POINT (-51.17981 -30.00994),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.17981 -30.00994),-51.17981,-30.00994
+208338,Porto Alegre,Filantrópica,POINT (-51.1928477045149 -30.0764632131904),Entre 51 e 200 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.1928477045149 -30.0764632131904),-51.1928477045149,-30.0764632131904
+208363,Porto Alegre,Filantrópica,POINT (-51.20707 -30.11891),Entre 51 e 200 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.20707 -30.11891),-51.20707,-30.11891
+208422,Porto Alegre,Não Informado,POINT (-51.17802 -30.00627),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17802 -30.00627),-51.17802,-30.00627
+208466,Porto Alegre,Não Informado,POINT (-51.2263548 -30.0818356),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2263548 -30.0818356),-51.2263548,-30.0818356
+208468,Porto Alegre,Particular,POINT (-51.1452647 -30.1504157),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.1452647 -30.1504157),-51.1452647,-30.1504157
+208484,Porto Alegre,Não Informado,POINT (-51.1377943 -30.1561227),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.1377943 -30.1561227),-51.1377943,-30.1561227
+208555,Porto Alegre,Particular,POINT (-51.18763 -30.00005),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18763 -30.00005),-51.18763,-30.00005
+208623,Porto Alegre,Não Informado,POINT (-51.1319332 -30.1536217),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1319332 -30.1536217),-51.1319332,-30.1536217
+208628,Porto Alegre,Comunitária,POINT (-51.0971373 -30.1179578),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0971373 -30.1179578),-51.0971373,-30.1179578
+208788,Porto Alegre,Comunitária,POINT (-51.1462807 -30.0499294),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1462807 -30.0499294),-51.1462807,-30.0499294
+208789,Porto Alegre,Comunitária,POINT (-51.1509889 -30.0492423),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1509889 -30.0492423),-51.1509889,-30.0492423
+208790,Porto Alegre,Particular,POINT (-51.23299 -30.09781),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23299 -30.09781),-51.23299,-30.09781
+208791,Porto Alegre,Filantrópica,POINT (-51.22151 -30.04081),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22151 -30.04081),-51.22151,-30.04081
+208792,Porto Alegre,Particular,POINT (-51.15804 -30.05886),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.15804 -30.05886),-51.15804,-30.05886
+208793,Porto Alegre,Comunitária,POINT (-51.1854302 -30.0369671),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1854302 -30.0369671),-51.1854302,-30.0369671
+208794,Porto Alegre,Comunitária,POINT (-51.179328 -30.0907206),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.179328 -30.0907206),-51.179328,-30.0907206
+208796,Porto Alegre,Comunitária,POINT (-51.1600356 -30.0495658),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1600356 -30.0495658),-51.1600356,-30.0495658
+208797,Porto Alegre,Comunitária,POINT (-51.1027429 -30.1227998),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1027429 -30.1227998),-51.1027429,-30.1227998
+208798,Porto Alegre,Comunitária,POINT (-51.2235659 -30.0725293),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2235659 -30.0725293),-51.2235659,-30.0725293
+208799,Porto Alegre,Comunitária,POINT (-51.1531 -30.04999),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1531 -30.04999),-51.1531,-30.04999
+208800,Porto Alegre,Comunitária,POINT (-51.2294967 -30.0863338),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2294967 -30.0863338),-51.2294967,-30.0863338
+208801,Porto Alegre,Comunitária,POINT (-51.1047559 -30.0235552),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1047559 -30.0235552),-51.1047559,-30.0235552
+208802,Porto Alegre,Comunitária,POINT (-51.2224929 -30.0699447),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2224929 -30.0699447),-51.2224929,-30.0699447
+208803,Porto Alegre,Comunitária,POINT (-51.1685722 -30.0759542),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1685722 -30.0759542),-51.1685722,-30.0759542
+208804,Porto Alegre,Comunitária,POINT (-51.2152177 -30.1310985),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2152177 -30.1310985),-51.2152177,-30.1310985
+208805,Porto Alegre,Comunitária,POINT (-51.2075464 -30.0485517),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2075464 -30.0485517),-51.2075464,-30.0485517
+208806,Porto Alegre,Comunitária,POINT (-51.2013379 -30.1532525),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2013379 -30.1532525),-51.2013379,-30.1532525
+208807,Porto Alegre,Comunitária,POINT (-51.2110045 -30.1366918),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2110045 -30.1366918),-51.2110045,-30.1366918
+208808,Porto Alegre,Filantrópica,POINT (-51.2301529 -30.0844793),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.2301529 -30.0844793),-51.2301529,-30.0844793
+208809,Porto Alegre,Comunitária,POINT (-51.1544744 -30.0501193),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1544744 -30.0501193),-51.1544744,-30.0501193
+208810,Porto Alegre,Comunitária,POINT (-51.2222956 -30.0745487),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2222956 -30.0745487),-51.2222956,-30.0745487
+208811,Porto Alegre,Comunitária,POINT (-51.2025341 -30.0088293),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2025341 -30.0088293),-51.2025341,-30.0088293
+208812,Porto Alegre,Comunitária,POINT (-51.1196226 -29.9896111),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1196226 -29.9896111),-51.1196226,-29.9896111
+208813,Porto Alegre,Comunitária,POINT (-51.0962297 -30.1186663),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0962297 -30.1186663),-51.0962297,-30.1186663
+208814,Porto Alegre,Comunitária,POINT (-51.1031299 -30.0245367),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1031299 -30.0245367),-51.1031299,-30.0245367
+208815,Porto Alegre,Comunitária,POINT (-51.2146216 -30.1293154),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2146216 -30.1293154),-51.2146216,-30.1293154
+208816,Porto Alegre,Confessional,POINT (-51.1505003 -30.0373761),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1505003 -30.0373761),-51.1505003,-30.0373761
+208817,Porto Alegre,Comunitária,POINT (-51.1072645 -30.0002273),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1072645 -30.0002273),-51.1072645,-30.0002273
+208818,Porto Alegre,Comunitária,POINT (-51.1623576 -30.047757),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1623576 -30.047757),-51.1623576,-30.047757
+208819,Porto Alegre,Confessional,POINT (-51.1057893 -29.9943402),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1057893 -29.9943402),-51.1057893,-29.9943402
+208820,Porto Alegre,Não Informado,POINT (-51.2066309 -30.0519386),Entre 51 e 200 matrículas de escolarização,,Urbana,Municipal,POINT (-51.2066309 -30.0519386),-51.2066309,-30.0519386
+208821,Porto Alegre,Confessional,POINT (-51.1944606 -29.9801785),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1944606 -29.9801785),-51.1944606,-29.9801785
+208822,Porto Alegre,Comunitária,POINT (-51.1360452 -30.0972645),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1360452 -30.0972645),-51.1360452,-30.0972645
+208823,Porto Alegre,Comunitária,POINT (-51.2273637 -30.0865126),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2273637 -30.0865126),-51.2273637,-30.0865126
+208824,Porto Alegre,Comunitária,POINT (-51.2168936 -30.1292391),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2168936 -30.1292391),-51.2168936,-30.1292391
+208825,Porto Alegre,Comunitária,POINT (-51.1066651 -30.1203592),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1066651 -30.1203592),-51.1066651,-30.1203592
+208827,Porto Alegre,Comunitária,POINT (-51.0998618 -29.9981267),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0998618 -29.9981267),-51.0998618,-29.9981267
+208829,Porto Alegre,Comunitária,POINT (-51.20864 -30.04254),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20864 -30.04254),-51.20864,-30.04254
+208830,Porto Alegre,Comunitária,POINT (-51.1066541 -30.0230287),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1066541 -30.0230287),-51.1066541,-30.0230287
+208831,Porto Alegre,Confessional,POINT (-51.1454685 -30.1628744),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1454685 -30.1628744),-51.1454685,-30.1628744
+208832,Porto Alegre,Filantrópica,POINT (-51.1034946 -30.0245675),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1034946 -30.0245675),-51.1034946,-30.0245675
+208833,Porto Alegre,Comunitária,POINT (-51.1237528 -30.0084627),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1237528 -30.0084627),-51.1237528,-30.0084627
+208835,Porto Alegre,Comunitária,POINT (-51.1372846 -30.155906),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1372846 -30.155906),-51.1372846,-30.155906
+208836,Porto Alegre,Comunitária,POINT (-51.1671969 -30.0703867),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1671969 -30.0703867),-51.1671969,-30.0703867
+208837,Porto Alegre,Comunitária,POINT (-51.1747845 -30.0713849),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1747845 -30.0713849),-51.1747845,-30.0713849
+208838,Porto Alegre,Comunitária,POINT (-51.1085822 -30.1219697),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1085822 -30.1219697),-51.1085822,-30.1219697
+208839,Porto Alegre,Comunitária,POINT (-51.2104916 -30.0376285),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2104916 -30.0376285),-51.2104916,-30.0376285
+208840,Porto Alegre,Comunitária,POINT (-51.1638843 -30.0772698),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1638843 -30.0772698),-51.1638843,-30.0772698
+208942,Porto Alegre,Particular,POINT (-51.22195 -30.02815),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22195 -30.02815),-51.22195,-30.02815
+208977,Porto Alegre,Comunitária,POINT (-51.1266516 -30.0882007),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1266516 -30.0882007),-51.1266516,-30.0882007
+208998,Porto Alegre,Particular,POINT (-51.10729 -30.01275),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.10729 -30.01275),-51.10729,-30.01275
+209000,Porto Alegre,Comunitária,POINT (-51.1079968 -30.1237905),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1079968 -30.1237905),-51.1079968,-30.1237905
+209001,Porto Alegre,Particular,POINT (-51.16478 -30.03322),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16478 -30.03322),-51.16478,-30.03322
+209003,Porto Alegre,Particular,POINT (-51.1506 -30.00741),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1506 -30.00741),-51.1506,-30.00741
+209005,Porto Alegre,Filantrópica,POINT (-51.15856 -30.04129),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15856 -30.04129),-51.15856,-30.04129
+209007,Porto Alegre,Comunitária,POINT (-51.1578594 -30.0456783),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1578594 -30.0456783),-51.1578594,-30.0456783
+209010,Porto Alegre,Particular,POINT (-51.15268 -30.00161),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15268 -30.00161),-51.15268,-30.00161
+209011,Porto Alegre,Particular,POINT (-51.15719 -30.05922),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.15719 -30.05922),-51.15719,-30.05922
+209012,Porto Alegre,Particular,POINT (-51.18847 -30.04449),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18847 -30.04449),-51.18847,-30.04449
+209013,Porto Alegre,Particular,POINT (-51.19158 -30.03366),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.19158 -30.03366),-51.19158,-30.03366
+209014,Porto Alegre,Não Informado,POINT (-51.1744939 -30.1773753),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1744939 -30.1773753),-51.1744939,-30.1773753
+209015,Porto Alegre,Particular,POINT (-51.16433 -30.01876),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.16433 -30.01876),-51.16433,-30.01876
+209016,Porto Alegre,Particular,POINT (-51.13559 -30.04431),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13559 -30.04431),-51.13559,-30.04431
+209017,Porto Alegre,Particular,POINT (-51.19324 -30.01932),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19324 -30.01932),-51.19324,-30.01932
+209018,Porto Alegre,Confessional,POINT (-51.2136191 -30.0469886),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2136191 -30.0469886),-51.2136191,-30.0469886
+209019,Porto Alegre,Não Informado,POINT (-51.18771 -30.04561),,,Urbana,Privada,POINT (-51.18771 -30.04561),-51.18771,-30.04561
+209020,Porto Alegre,Particular,POINT (-51.14306 -30.14767),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14306 -30.14767),-51.14306,-30.14767
+209021,Porto Alegre,Particular,POINT (-51.22355 -30.03989),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22355 -30.03989),-51.22355,-30.03989
+209023,Porto Alegre,Particular,POINT (-51.21082 -30.06656),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21082 -30.06656),-51.21082,-30.06656
+209024,Porto Alegre,Não Informado,POINT (-51.19108 -30.1579),,,Urbana,Privada,POINT (-51.19108 -30.1579),-51.19108,-30.1579
+209025,Porto Alegre,Particular,POINT (-51.19662 -30.01361),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19662 -30.01361),-51.19662,-30.01361
+209026,Porto Alegre,Comunitária,POINT (-51.1120846 -30.1105187),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1120846 -30.1105187),-51.1120846,-30.1105187
+209027,Porto Alegre,Confessional,POINT (-51.225752 -30.0772184),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.225752 -30.0772184),-51.225752,-30.0772184
+209028,Porto Alegre,Confessional,POINT (-51.2265473 -30.0815506),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2265473 -30.0815506),-51.2265473,-30.0815506
+209029,Porto Alegre,Confessional,POINT (-51.1266233 -30.0163844),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1266233 -30.0163844),-51.1266233,-30.0163844
+209030,Porto Alegre,Comunitária,POINT (-51.1896033 -30.0780113),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1896033 -30.0780113),-51.1896033,-30.0780113
+209031,Porto Alegre,Comunitária,POINT (-51.0975232 -30.0237311),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0975232 -30.0237311),-51.0975232,-30.0237311
+209032,Porto Alegre,Comunitária,POINT (-51.1736134 -30.0709027),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1736134 -30.0709027),-51.1736134,-30.0709027
+209033,Porto Alegre,Confessional,POINT (-51.1331812 -30.0228461),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1331812 -30.0228461),-51.1331812,-30.0228461
+209034,Porto Alegre,Comunitária,POINT (-51.2067707 -30.0681939),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2067707 -30.0681939),-51.2067707,-30.0681939
+209035,Porto Alegre,Particular,POINT (-51.23226 -30.03509),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23226 -30.03509),-51.23226,-30.03509
+209036,Porto Alegre,Particular,POINT (-51.15063 -30.00714),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15063 -30.00714),-51.15063,-30.00714
+209037,Porto Alegre,Particular,POINT (-51.24168 -30.1087),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.24168 -30.1087),-51.24168,-30.1087
+209038,Porto Alegre,Particular,POINT (-51.1857951 -30.0098986),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1857951 -30.0098986),-51.1857951,-30.0098986
+209039,Porto Alegre,Particular,POINT (-51.17762 -30.03896),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.17762 -30.03896),-51.17762,-30.03896
+209040,Porto Alegre,Particular,POINT (-51.1667 -30.041),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1667 -30.041),-51.1667,-30.041
+209041,Porto Alegre,Particular,POINT (-51.18562 -30.0529),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18562 -30.0529),-51.18562,-30.0529
+209042,Porto Alegre,Particular,POINT (-51.227 -30.05726),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.227 -30.05726),-51.227,-30.05726
+209043,Porto Alegre,Particular,POINT (-51.23141 -30.1029),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23141 -30.1029),-51.23141,-30.1029
+209044,Porto Alegre,Confessional,POINT (-51.1770077 -30.11963),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1770077 -30.11963),-51.1770077,-30.11963
+209045,Porto Alegre,Particular,POINT (-51.13359 -29.98046),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13359 -29.98046),-51.13359,-29.98046
+209046,Porto Alegre,Particular,POINT (-51.23176 -30.09319),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.23176 -30.09319),-51.23176,-30.09319
+209047,Porto Alegre,Comunitária,POINT (-51.2145151 -30.0919496),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2145151 -30.0919496),-51.2145151,-30.0919496
+209048,Porto Alegre,Particular,POINT (-51.24819 -30.11086),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.24819 -30.11086),-51.24819,-30.11086
+209049,Porto Alegre,Comunitária,POINT (-51.136894 -30.1549846),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.136894 -30.1549846),-51.136894,-30.1549846
+209051,Porto Alegre,Comunitária,POINT (-51.1369299 -29.978445),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1369299 -29.978445),-51.1369299,-29.978445
+209052,Porto Alegre,Comunitária,POINT (-51.1462713 -30.1667164),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1462713 -30.1667164),-51.1462713,-30.1667164
+209055,Porto Alegre,Comunitária,POINT (-51.2243073 -29.9930901),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2243073 -29.9930901),-51.2243073,-29.9930901
+209057,Porto Alegre,Comunitária,POINT (-51.2376089 -30.0949777),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2376089 -30.0949777),-51.2376089,-30.0949777
+209058,Porto Alegre,Comunitária,POINT (-51.2298776 -30.1342703),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2298776 -30.1342703),-51.2298776,-30.1342703
+209059,Porto Alegre,Comunitária,POINT (-51.1414621 -30.1548632),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1414621 -30.1548632),-51.1414621,-30.1548632
+209066,Porto Alegre,Particular,POINT (-51.22358 -30.03848),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22358 -30.03848),-51.22358,-30.03848
+209067,Porto Alegre,Particular,POINT (-51.25592 -30.10958),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.25592 -30.10958),-51.25592,-30.10958
+209068,Porto Alegre,Comunitária,POINT (-51.2644497 -30.0991831),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2644497 -30.0991831),-51.2644497,-30.0991831
+209069,Porto Alegre,Particular,POINT (-51.203 -30.02141),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.203 -30.02141),-51.203,-30.02141
+209070,Porto Alegre,Particular,POINT (-51.22678 -30.05033),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22678 -30.05033),-51.22678,-30.05033
+209071,Porto Alegre,Particular,POINT (-51.1832752 -30.0108772),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1832752 -30.0108772),-51.1832752,-30.0108772
+209072,Porto Alegre,Particular,POINT (-51.22157 -30.03676),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22157 -30.03676),-51.22157,-30.03676
+209073,Porto Alegre,Particular,POINT (-51.2327 -30.10578),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2327 -30.10578),-51.2327,-30.10578
+209074,Porto Alegre,Comunitária,POINT (-51.1402469 -30.1598602),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1402469 -30.1598602),-51.1402469,-30.1598602
+209076,Porto Alegre,Comunitária,POINT (-51.2385141 -30.094817),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2385141 -30.094817),-51.2385141,-30.094817
+209077,Porto Alegre,Comunitária,POINT (-51.1300714 -29.9947196),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1300714 -29.9947196),-51.1300714,-29.9947196
+209078,Porto Alegre,Particular,POINT (-51.20976 -30.12298),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20976 -30.12298),-51.20976,-30.12298
+209082,Porto Alegre,Particular,POINT (-51.13786 -30.00244),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13786 -30.00244),-51.13786,-30.00244
+209088,Porto Alegre,Particular,POINT (-51.16365 -30.00984),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16365 -30.00984),-51.16365,-30.00984
+209089,Porto Alegre,Particular,POINT (-51.23486 -30.03613),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.23486 -30.03613),-51.23486,-30.03613
+209090,Porto Alegre,Particular,POINT (-51.21409 -30.08371),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.21409 -30.08371),-51.21409,-30.08371
+209092,Porto Alegre,Comunitária,POINT (-51.17665 -30.1747344),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.17665 -30.1747344),-51.17665,-30.1747344
+209114,Porto Alegre,Particular,POINT (-51.22741 -30.09639),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22741 -30.09639),-51.22741,-30.09639
+209116,Porto Alegre,Comunitária,POINT (-51.1378963 -29.9908941),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1378963 -29.9908941),-51.1378963,-29.9908941
+209117,Porto Alegre,Comunitária,POINT (-51.1268365 -30.0455451),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1268365 -30.0455451),-51.1268365,-30.0455451
+209119,Porto Alegre,Comunitária,POINT (-51.1152988 -29.985651),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1152988 -29.985651),-51.1152988,-29.985651
+209120,Porto Alegre,Filantrópica,POINT (-51.2202849 -30.0449969),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2202849 -30.0449969),-51.2202849,-30.0449969
+209121,Porto Alegre,Comunitária,POINT (-51.1299406 -29.9794081),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1299406 -29.9794081),-51.1299406,-29.9794081
+209122,Porto Alegre,Comunitária,POINT (-51.2423268 -30.1012431),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2423268 -30.1012431),-51.2423268,-30.1012431
+209138,Porto Alegre,Não Informado,POINT (-51.0949769 -30.0220879),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.0949769 -30.0220879),-51.0949769,-30.0220879
+209209,Porto Alegre,Comunitária,POINT (-51.1293932 -30.0465594),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1293932 -30.0465594),-51.1293932,-30.0465594
+209210,Porto Alegre,Comunitária,POINT (-51.1019681 -30.1155737),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1019681 -30.1155737),-51.1019681,-30.1155737
+209211,Porto Alegre,Comunitária,POINT (-51.182646 -30.0755231),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.182646 -30.0755231),-51.182646,-30.0755231
+209212,Porto Alegre,Particular,POINT (-51.20516 -30.05075),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20516 -30.05075),-51.20516,-30.05075
+209213,Porto Alegre,Confessional,POINT (-51.1509089 -30.0436105),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1509089 -30.0436105),-51.1509089,-30.0436105
+209214,Porto Alegre,Particular,POINT (-51.17593 -30.06746),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.17593 -30.06746),-51.17593,-30.06746
+209215,Porto Alegre,Não Informado,POINT (-51.23416 -30.08153),,,Urbana,Privada,POINT (-51.23416 -30.08153),-51.23416,-30.08153
+209217,Porto Alegre,Particular,POINT (-51.22459 -30.11916),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22459 -30.11916),-51.22459,-30.11916
+209218,Porto Alegre,Comunitária,POINT (-51.1743931 -30.0935696),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1743931 -30.0935696),-51.1743931,-30.0935696
+209220,Porto Alegre,Particular,POINT (-51.22977 -30.06044),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22977 -30.06044),-51.22977,-30.06044
+209221,Porto Alegre,Particular,POINT (-51.11149 -30.0224),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.11149 -30.0224),-51.11149,-30.0224
+209222,Porto Alegre,Confessional,POINT (-51.1637132 -30.0730572),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1637132 -30.0730572),-51.1637132,-30.0730572
+209223,Porto Alegre,Comunitária,POINT (-51.1094676 -30.0301658),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1094676 -30.0301658),-51.1094676,-30.0301658
+209224,Porto Alegre,Particular,POINT (-51.224515 -30.1220174),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.224515 -30.1220174),-51.224515,-30.1220174
+209225,Porto Alegre,Particular,POINT (-51.20285 -30.06962),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20285 -30.06962),-51.20285,-30.06962
+209226,Porto Alegre,Comunitária,POINT (-51.1470042262226 -29.9954791925848),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1470042262226 -29.9954791925848),-51.1470042262226,-29.9954791925848
+209227,Porto Alegre,Comunitária,POINT (-51.1724752 -30.1044008),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1724752 -30.1044008),-51.1724752,-30.1044008
+209228,Porto Alegre,Comunitária,POINT (-51.1227736 -30.0231481),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1227736 -30.0231481),-51.1227736,-30.0231481
+209229,Porto Alegre,Comunitária,POINT (-51.1869432 -30.056813),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1869432 -30.056813),-51.1869432,-30.056813
+209230,Porto Alegre,Comunitária,POINT (-51.228971 -30.0888061),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.228971 -30.0888061),-51.228971,-30.0888061
+209231,Porto Alegre,Particular,POINT (-51.1894134 -30.0462764),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1894134 -30.0462764),-51.1894134,-30.0462764
+209232,Porto Alegre,Comunitária,POINT (-51.1365418 -30.1620111),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1365418 -30.1620111),-51.1365418,-30.1620111
+209233,Porto Alegre,Confessional,POINT (-51.1964513 -29.9784852),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1964513 -29.9784852),-51.1964513,-29.9784852
+209235,Porto Alegre,Comunitária,POINT (-51.1213051 -29.9842836),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1213051 -29.9842836),-51.1213051,-29.9842836
+209236,Porto Alegre,Comunitária,POINT (-51.18863 -30.0974),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18863 -30.0974),-51.18863,-30.0974
+209237,Porto Alegre,Particular,POINT (-51.22288 -30.05065),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22288 -30.05065),-51.22288,-30.05065
+209238,Porto Alegre,Comunitária,POINT (-51.1439202 -30.1589231),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1439202 -30.1589231),-51.1439202,-30.1589231
+209239,Porto Alegre,Comunitária,POINT (-51.218418 -30.0789011),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.218418 -30.0789011),-51.218418,-30.0789011
+209240,Porto Alegre,Comunitária,POINT (-51.1529632 -30.1124293),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1529632 -30.1124293),-51.1529632,-30.1124293
+209241,Porto Alegre,Confessional,POINT (-51.2239631 -30.0790974),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2239631 -30.0790974),-51.2239631,-30.0790974
+209242,Porto Alegre,Comunitária,POINT (-51.0983652 -30.0268234),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0983652 -30.0268234),-51.0983652,-30.0268234
+209243,Porto Alegre,Confessional,POINT (-51.2440985 -30.0941362),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2440985 -30.0941362),-51.2440985,-30.0941362
+209244,Porto Alegre,Comunitária,POINT (-51.1084677 -29.9854438),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1084677 -29.9854438),-51.1084677,-29.9854438
+209245,Porto Alegre,Particular,POINT (-51.1920657 -30.0427016),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1920657 -30.0427016),-51.1920657,-30.0427016
+209246,Porto Alegre,Comunitária,POINT (-51.0997214 -30.0248097),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0997214 -30.0248097),-51.0997214,-30.0248097
+209247,Porto Alegre,Particular,POINT (-51.22326 -30.08566),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22326 -30.08566),-51.22326,-30.08566
+209248,Porto Alegre,Comunitária,POINT (-51.1811157 -30.0869465),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1811157 -30.0869465),-51.1811157,-30.0869465
+209249,Porto Alegre,Comunitária,POINT (-51.129723 -30.028367),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.129723 -30.028367),-51.129723,-30.028367
+209250,Porto Alegre,Não Informado,POINT (-51.22725 -30.08311),,,Urbana,Privada,POINT (-51.22725 -30.08311),-51.22725,-30.08311
+209251,Porto Alegre,Comunitária,POINT (-51.1347265 -29.988703),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1347265 -29.988703),-51.1347265,-29.988703
+209252,Porto Alegre,Comunitária,POINT (-51.2020304 -29.9888326),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2020304 -29.9888326),-51.2020304,-29.9888326
+209253,Porto Alegre,Comunitária,POINT (-51.1135289 -30.031179),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1135289 -30.031179),-51.1135289,-30.031179
+209255,Porto Alegre,Comunitária,POINT (-51.2242941 -30.0884957),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2242941 -30.0884957),-51.2242941,-30.0884957
+209256,Porto Alegre,Particular,POINT (-51.14458 -30.02964),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14458 -30.02964),-51.14458,-30.02964
+209258,Porto Alegre,Particular,POINT (-51.17549 -30.06686),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.17549 -30.06686),-51.17549,-30.06686
+209261,Porto Alegre,Particular,POINT (-51.20599 -30.04799),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20599 -30.04799),-51.20599,-30.04799
+209262,Porto Alegre,Particular,POINT (-51.19064 -30.04979),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19064 -30.04979),-51.19064,-30.04979
+209281,Porto Alegre,Particular,POINT (-51.19537 -30.04457),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19537 -30.04457),-51.19537,-30.04457
+209282,Porto Alegre,Não Informado,POINT (-51.20531 -30.04239),Até 50 matrículas de escolarização,,Urbana,Federal,POINT (-51.20531 -30.04239),-51.20531,-30.04239
+209284,Porto Alegre,Particular,POINT (-51.1282685 -30.0403206),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1282685 -30.0403206),-51.1282685,-30.0403206
+209285,Porto Alegre,Particular,POINT (-51.20904 -30.02684),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20904 -30.02684),-51.20904,-30.02684
+209286,Porto Alegre,Particular,POINT (-51.21609 -30.08652),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.21609 -30.08652),-51.21609,-30.08652
+209288,Porto Alegre,Particular,POINT (-51.16678 -30.01509),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16678 -30.01509),-51.16678,-30.01509
+209289,Porto Alegre,Particular,POINT (-51.2015142 -30.0567861),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2015142 -30.0567861),-51.2015142,-30.0567861
+209290,Porto Alegre,Particular,POINT (-51.20413 -30.00408),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20413 -30.00408),-51.20413,-30.00408
+209291,Porto Alegre,Particular,POINT (-51.0922763 -29.9913155),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0922763 -29.9913155),-51.0922763,-29.9913155
+209292,Porto Alegre,Particular,POINT (-51.22089 -30.05096),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22089 -30.05096),-51.22089,-30.05096
+209293,Porto Alegre,Particular,POINT (-51.22206 -30.03955),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22206 -30.03955),-51.22206,-30.03955
+209294,Porto Alegre,Particular,POINT (-51.1787 -30.02671),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1787 -30.02671),-51.1787,-30.02671
+209295,Porto Alegre,Não Informado,POINT (-51.126 -29.99571),,,Urbana,Privada,POINT (-51.126 -29.99571),-51.126,-29.99571
+209296,Porto Alegre,Particular,POINT (-51.2594 -30.01724),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2594 -30.01724),-51.2594,-30.01724
+209297,Porto Alegre,Particular,POINT (-51.16923 -30.06535),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16923 -30.06535),-51.16923,-30.06535
+209298,Porto Alegre,Particular,POINT (-51.11878 -30.02383),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.11878 -30.02383),-51.11878,-30.02383
+209299,Porto Alegre,Não Informado,POINT (-51.22362 -30.05569),,,Urbana,Privada,POINT (-51.22362 -30.05569),-51.22362,-30.05569
+209300,Porto Alegre,Particular,POINT (-51.22334 -30.05094),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22334 -30.05094),-51.22334,-30.05094
+209301,Porto Alegre,Particular,POINT (-51.20763 -30.0170748),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20763 -30.0170748),-51.20763,-30.0170748
+209302,Porto Alegre,Particular,POINT (-51.12435 -30.00171),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.12435 -30.00171),-51.12435,-30.00171
+209303,Porto Alegre,Particular,POINT (-51.20772 -30.0305),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20772 -30.0305),-51.20772,-30.0305
+209304,Porto Alegre,Particular,POINT (-51.1736045 -30.0638336),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1736045 -30.0638336),-51.1736045,-30.0638336
+209306,Porto Alegre,Particular,POINT (-51.20377 -30.04958),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20377 -30.04958),-51.20377,-30.04958
+209307,Porto Alegre,Filantrópica,POINT (-51.2046 -30.02668),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2046 -30.02668),-51.2046,-30.02668
+209308,Porto Alegre,Não Informado,POINT (-51.13525 -30.04386),,,Urbana,Privada,POINT (-51.13525 -30.04386),-51.13525,-30.04386
+209310,Porto Alegre,Particular,POINT (-51.18933 -30.04378),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18933 -30.04378),-51.18933,-30.04378
+209311,Porto Alegre,Filantrópica,POINT (-51.22249 -30.04865),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22249 -30.04865),-51.22249,-30.04865
+209312,Porto Alegre,Particular,POINT (-51.16188 -30.00911),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16188 -30.00911),-51.16188,-30.00911
+209313,Porto Alegre,Comunitária,POINT (-51.1045111 -30.0209878),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1045111 -30.0209878),-51.1045111,-30.0209878
+209314,Porto Alegre,Comunitária,POINT (-51.1452138 -30.1494496),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1452138 -30.1494496),-51.1452138,-30.1494496
+209315,Porto Alegre,Particular,POINT (-51.1589323 -30.0339039),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1589323 -30.0339039),-51.1589323,-30.0339039
+209316,Porto Alegre,Particular,POINT (-51.16639 -30.01694),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16639 -30.01694),-51.16639,-30.01694
+209317,Porto Alegre,Particular,POINT (-51.21589 -30.04348),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21589 -30.04348),-51.21589,-30.04348
+209318,Porto Alegre,Particular,POINT (-51.16822 -30.01036),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.16822 -30.01036),-51.16822,-30.01036
+210057,Porto Alegre,Comunitária,POINT (-51.1698011588305 -30.0129436003044),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1698011588305 -30.0129436003044),-51.1698011588305,-30.0129436003044
+210058,Porto Alegre,Particular,POINT (-51.2148333 -30.0276986),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2148333 -30.0276986),-51.2148333,-30.0276986
+210059,Porto Alegre,Particular,POINT (-51.21136 -30.02429),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21136 -30.02429),-51.21136,-30.02429
+210060,Porto Alegre,Particular,POINT (-51.19684 -30.02616),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19684 -30.02616),-51.19684,-30.02616
+210061,Porto Alegre,Particular,POINT (-51.17927 -30.02892),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.17927 -30.02892),-51.17927,-30.02892
+210063,Porto Alegre,Particular,POINT (-51.1844 -30.00722),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1844 -30.00722),-51.1844,-30.00722
+210065,Porto Alegre,Comunitária,POINT (-51.2029904 -30.0077609),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2029904 -30.0077609),-51.2029904,-30.0077609
+210066,Porto Alegre,Particular,POINT (-51.21981 -30.15219),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.21981 -30.15219),-51.21981,-30.15219
+210067,Porto Alegre,Particular,POINT (-51.09094 -30.00291),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.09094 -30.00291),-51.09094,-30.00291
+210068,Porto Alegre,Particular,POINT (-51.18935 -30.00821),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18935 -30.00821),-51.18935,-30.00821
+210069,Porto Alegre,Comunitária,POINT (-51.1204425 -30.0346502),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1204425 -30.0346502),-51.1204425,-30.0346502
+210070,Porto Alegre,Comunitária,POINT (-51.1254014 -30.2057506),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1254014 -30.2057506),-51.1254014,-30.2057506
+210071,Porto Alegre,Comunitária,POINT (-51.1968993 -29.9795098),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1968993 -29.9795098),-51.1968993,-29.9795098
+210072,Porto Alegre,Comunitária,POINT (-51.1198856 -30.036146),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1198856 -30.036146),-51.1198856,-30.036146
+210074,Porto Alegre,Particular,POINT (-51.13177 -29.9873),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13177 -29.9873),-51.13177,-29.9873
+210075,Porto Alegre,Confessional,POINT (-51.246815 -30.1175854),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.246815 -30.1175854),-51.246815,-30.1175854
+210078,Porto Alegre,Particular,POINT (-51.18202 -30.03324),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18202 -30.03324),-51.18202,-30.03324
+210080,Porto Alegre,Filantrópica,POINT (-51.24928 -30.10307),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.24928 -30.10307),-51.24928,-30.10307
+210089,Porto Alegre,Particular,POINT (-51.11033 -30.01468),Entre 201 e 500 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.11033 -30.01468),-51.11033,-30.01468
+210091,Porto Alegre,Particular,POINT (-51.22603 -30.0295),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22603 -30.0295),-51.22603,-30.0295
+210195,Porto Alegre,Particular,POINT (-51.22788 -30.13635),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22788 -30.13635),-51.22788,-30.13635
+210198,Porto Alegre,Particular,POINT (-51.09562 -30.00235),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.09562 -30.00235),-51.09562,-30.00235
+210218,Porto Alegre,Particular,POINT (-51.14572 -30.04462),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14572 -30.04462),-51.14572,-30.04462
+210225,Porto Alegre,Particular,POINT (-51.15336 -30.01111),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.15336 -30.01111),-51.15336,-30.01111
+210226,Porto Alegre,Particular,POINT (-51.15918 -30.01988),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15918 -30.01988),-51.15918,-30.01988
+210228,Porto Alegre,Não Informado,POINT (-51.17516 -30.02449),Entre 501 e 1000 matrículas de escolarização,,Urbana,Estadual,POINT (-51.17516 -30.02449),-51.17516,-30.02449
+210230,Porto Alegre,Particular,POINT (-51.14422 -30.00911),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.14422 -30.00911),-51.14422,-30.00911
+210231,Porto Alegre,Particular,POINT (-51.20141 -30.04201),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20141 -30.04201),-51.20141,-30.04201
+210296,Porto Alegre,Particular,POINT (-51.13802 -30.1485),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.13802 -30.1485),-51.13802,-30.1485
+210297,Porto Alegre,Comunitária,POINT (-51.2536194 -30.1209063),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2536194 -30.1209063),-51.2536194,-30.1209063
+210298,Porto Alegre,Não Informado,POINT (-51.1278913 -30.1454329),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1278913 -30.1454329),-51.1278913,-30.1454329
+210299,Porto Alegre,Comunitária,POINT (-51.2326802 -30.0714371),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2326802 -30.0714371),-51.2326802,-30.0714371
+210300,Porto Alegre,Comunitária,POINT (-51.2310059 -30.1171493),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2310059 -30.1171493),-51.2310059,-30.1171493
+210317,Porto Alegre,Não Informado,POINT (-51.22587 -30.03214),Entre 201 e 500 matrículas de escolarização,,Urbana,Estadual,POINT (-51.22587 -30.03214),-51.22587,-30.03214
+210428,Porto Alegre,Comunitária,POINT (-51.1274484 -30.1463368),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1274484 -30.1463368),-51.1274484,-30.1463368
+210429,Porto Alegre,Comunitária,POINT (-51.2309733 -30.0852314),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2309733 -30.0852314),-51.2309733,-30.0852314
+210430,Porto Alegre,Particular,POINT (-51.25166 -30.11224),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.25166 -30.11224),-51.25166,-30.11224
+210431,Porto Alegre,Particular,POINT (-51.17195 -30.04812),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.17195 -30.04812),-51.17195,-30.04812
+210432,Porto Alegre,Particular,POINT (-51.1556507 -30.0160654),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1556507 -30.0160654),-51.1556507,-30.0160654
+210433,Porto Alegre,Não Informado,POINT (-51.234 -30.03372),,,Urbana,Privada,POINT (-51.234 -30.03372),-51.234,-30.03372
+210434,Porto Alegre,Particular,POINT (-51.24728 -30.11341),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.24728 -30.11341),-51.24728,-30.11341
+210440,Porto Alegre,Particular,POINT (-51.20811 -30.02422),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20811 -30.02422),-51.20811,-30.02422
+210444,Porto Alegre,Particular,POINT (-51.17849 -30.00752),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.17849 -30.00752),-51.17849,-30.00752
+210476,Porto Alegre,Particular,POINT (-51.20281 -30.0754),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.20281 -30.0754),-51.20281,-30.0754
+210541,Porto Alegre,Comunitária,POINT (-51.1667806 -30.1129821),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1667806 -30.1129821),-51.1667806,-30.1129821
+210542,Porto Alegre,Comunitária,POINT (-51.1410318 -30.1481244),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1410318 -30.1481244),-51.1410318,-30.1481244
+210543,Porto Alegre,Particular,POINT (-51.23379 -30.10699),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23379 -30.10699),-51.23379,-30.10699
+210544,Porto Alegre,Particular,POINT (-51.17509 -30.06736),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.17509 -30.06736),-51.17509,-30.06736
+210545,Porto Alegre,Particular,POINT (-51.14993 -30.01218),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14993 -30.01218),-51.14993,-30.01218
+210546,Porto Alegre,Particular,POINT (-51.1518476 -30.0054108),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1518476 -30.0054108),-51.1518476,-30.0054108
+210566,Porto Alegre,Particular,POINT (-51.2029085 -30.0304886),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2029085 -30.0304886),-51.2029085,-30.0304886
+210567,Porto Alegre,Comunitária,POINT (-51.1517398 -30.1161468),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1517398 -30.1161468),-51.1517398,-30.1161468
+210568,Porto Alegre,Particular,POINT (-51.17168 -30.06441),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.17168 -30.06441),-51.17168,-30.06441
+210577,Porto Alegre,Comunitária,POINT (-51.1971843 -29.9764318),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1971843 -29.9764318),-51.1971843,-29.9764318
+210586,Porto Alegre,Particular,POINT (-51.15387 -30.01018),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.15387 -30.01018),-51.15387,-30.01018
+210621,Porto Alegre,Particular,POINT (-51.21128 -30.03434),Entre 51 e 200 matrículas de escolarização,Atendimento Educacional Especializado,Urbana,Privada,POINT (-51.21128 -30.03434),-51.21128,-30.03434
+210627,Porto Alegre,Não Informado,POINT (-51.1468 -30.01501),,,Urbana,Privada,POINT (-51.1468 -30.01501),-51.1468,-30.01501
+210628,Porto Alegre,Particular,POINT (-51.2302 -30.10874),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2302 -30.10874),-51.2302,-30.10874
+210629,Porto Alegre,Particular,POINT (-51.12705 -30.014),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.12705 -30.014),-51.12705,-30.014
+210631,Porto Alegre,Particular,POINT (-51.22667 -30.04006),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22667 -30.04006),-51.22667,-30.04006
+210632,Porto Alegre,Particular,POINT (-51.20256 -30.00438),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20256 -30.00438),-51.20256,-30.00438
+210633,Porto Alegre,Particular,POINT (-51.19308 -30.01594),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19308 -30.01594),-51.19308,-30.01594
+210634,Porto Alegre,Comunitária,POINT (-51.1738161 -30.1594269),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1738161 -30.1594269),-51.1738161,-30.1594269
+210635,Porto Alegre,Particular,POINT (-51.25665 -30.10239),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.25665 -30.10239),-51.25665,-30.10239
+210638,Porto Alegre,Particular,POINT (-51.18057 -30.0128),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18057 -30.0128),-51.18057,-30.0128
+210647,Porto Alegre,Particular,POINT (-51.22064 -30.05894),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22064 -30.05894),-51.22064,-30.05894
+210648,Porto Alegre,Comunitária,POINT (-51.0940974 -30.0213495),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.0940974 -30.0213495),-51.0940974,-30.0213495
+210649,Porto Alegre,Particular,POINT (-51.20651 -30.08296),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20651 -30.08296),-51.20651,-30.08296
+210650,Porto Alegre,Particular,POINT (-51.15216 -30.0409),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15216 -30.0409),-51.15216,-30.0409
+210651,Porto Alegre,Não Informado,POINT (-51.2256 -30.03054),,,Urbana,Privada,POINT (-51.2256 -30.03054),-51.2256,-30.03054
+210666,Porto Alegre,Particular,POINT (-51.09526 -29.99265),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.09526 -29.99265),-51.09526,-29.99265
+210678,Porto Alegre,Particular,POINT (-51.2074 -30.01814),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2074 -30.01814),-51.2074,-30.01814
+210679,Porto Alegre,Particular,POINT (-51.22461 -30.05976),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22461 -30.05976),-51.22461,-30.05976
+210680,Porto Alegre,Particular,POINT (-51.23249 -30.09996),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23249 -30.09996),-51.23249,-30.09996
+210681,Porto Alegre,Particular,POINT (-51.23853 -30.12803),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23853 -30.12803),-51.23853,-30.12803
+210682,Porto Alegre,Não Informado,POINT (-51.17896 -30.0429),,,Urbana,Privada,POINT (-51.17896 -30.0429),-51.17896,-30.0429
+210683,Porto Alegre,Particular,POINT (-51.20724 -30.0722),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.20724 -30.0722),-51.20724,-30.0722
+210691,Porto Alegre,Particular,POINT (-51.18955 -30.02952),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.18955 -30.02952),-51.18955,-30.02952
+210726,Porto Alegre,Particular,POINT (-51.15468 -30.0186),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15468 -30.0186),-51.15468,-30.0186
+210727,Porto Alegre,Particular,POINT (-51.19481 -30.02422),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19481 -30.02422),-51.19481,-30.02422
+210728,Porto Alegre,Particular,POINT (-51.2288956 -30.0944745),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2288956 -30.0944745),-51.2288956,-30.0944745
+210729,Porto Alegre,Particular,POINT (-51.19513 -30.01914),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19513 -30.01914),-51.19513,-30.01914
+210730,Porto Alegre,Não Informado,POINT (-51.17849 -30.00679),,,Urbana,Privada,POINT (-51.17849 -30.00679),-51.17849,-30.00679
+210731,Porto Alegre,Comunitária,POINT (-51.2163832 -30.0680609),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2163832 -30.0680609),-51.2163832,-30.0680609
+210732,Porto Alegre,Particular,POINT (-51.17836 -30.02231),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.17836 -30.02231),-51.17836,-30.02231
+210733,Porto Alegre,Particular,POINT (-51.13258 -30.0115),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13258 -30.0115),-51.13258,-30.0115
+210734,Porto Alegre,Particular,POINT (-51.2494953 -30.1102949),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2494953 -30.1102949),-51.2494953,-30.1102949
+210735,Porto Alegre,Particular,POINT (-51.23187 -30.10319),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23187 -30.10319),-51.23187,-30.10319
+210755,Porto Alegre,Filantrópica,POINT (-51.1604 -30.0588),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1604 -30.0588),-51.1604,-30.0588
+210759,Porto Alegre,Particular,POINT (-51.19523 -30.021),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.19523 -30.021),-51.19523,-30.021
+210760,Porto Alegre,Particular,POINT (-51.13367 -29.98433),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13367 -29.98433),-51.13367,-29.98433
+210761,Porto Alegre,Particular,POINT (-51.13996 -30.15015),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13996 -30.15015),-51.13996,-30.15015
+210762,Porto Alegre,Particular,POINT (-51.21097 -30.12615),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21097 -30.12615),-51.21097,-30.12615
+210763,Porto Alegre,Comunitária,POINT (-51.1004217 -29.988499),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1004217 -29.988499),-51.1004217,-29.988499
+210764,Porto Alegre,Comunitária,POINT (-51.1986998 -29.9802828),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1986998 -29.9802828),-51.1986998,-29.9802828
+210765,Porto Alegre,Não Informado,POINT (-51.0979019 -29.9931935),,,Urbana,Privada,POINT (-51.0979019 -29.9931935),-51.0979019,-29.9931935
+210766,Porto Alegre,Particular,POINT (-51.14758 -30.15044),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14758 -30.15044),-51.14758,-30.15044
+210767,Porto Alegre,Particular,POINT (-51.10778 -29.99013),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.10778 -29.99013),-51.10778,-29.99013
+210768,Porto Alegre,Comunitária,POINT (-51.1419456 -30.1665004),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1419456 -30.1665004),-51.1419456,-30.1665004
+210769,Porto Alegre,Particular,POINT (-51.10908 -30.02176),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.10908 -30.02176),-51.10908,-30.02176
+210770,Porto Alegre,Particular,POINT (-51.14315 -30.0121),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14315 -30.0121),-51.14315,-30.0121
+210771,Porto Alegre,Particular,POINT (-51.149 -30.01796),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.149 -30.01796),-51.149,-30.01796
+210772,Porto Alegre,Comunitária,POINT (-51.2109004 -30.0510306),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2109004 -30.0510306),-51.2109004,-30.0510306
+210773,Porto Alegre,Comunitária,POINT (-51.1315005 -29.9806262),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1315005 -29.9806262),-51.1315005,-29.9806262
+210774,Porto Alegre,Particular,POINT (-51.13422 -30.0106),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.13422 -30.0106),-51.13422,-30.0106
+210775,Porto Alegre,Comunitária,POINT (-51.1970952 -29.9878149),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1970952 -29.9878149),-51.1970952,-29.9878149
+210776,Porto Alegre,Particular,POINT (-51.1417629868082 -30.0433532874266),Entre 501 e 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Privada,POINT (-51.1417629868082 -30.0433532874266),-51.1417629868082,-30.0433532874266
+210777,Porto Alegre,Particular,POINT (-51.1804 -30.03481),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1804 -30.03481),-51.1804,-30.03481
+210778,Porto Alegre,Particular,POINT (-51.16668 -30.0438),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.16668 -30.0438),-51.16668,-30.0438
+210779,Porto Alegre,Comunitária,POINT (-51.1346763 -30.1522173),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1346763 -30.1522173),-51.1346763,-30.1522173
+210780,Porto Alegre,Particular,POINT (-51.22661 -30.03024),Escola sem matrícula de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.22661 -30.03024),-51.22661,-30.03024
+210781,Porto Alegre,Não Informado,POINT (-51.20854 -30.07802),Entre 51 e 200 matrículas de escolarização,,Urbana,Estadual,POINT (-51.20854 -30.07802),-51.20854,-30.07802
+210795,Porto Alegre,Comunitária,POINT (-51.1639748 -30.0501614),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1639748 -30.0501614),-51.1639748,-30.0501614
+210841,Porto Alegre,Particular,POINT (-51.19934 -30.03682),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19934 -30.03682),-51.19934,-30.03682
+210858,Porto Alegre,Particular,POINT (-51.15573 -30.01906),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15573 -30.01906),-51.15573,-30.01906
+210859,Porto Alegre,Particular,POINT (-51.14933 -30.04447),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14933 -30.04447),-51.14933,-30.04447
+210860,Porto Alegre,Particular,POINT (-51.1543823 -30.0247335),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1543823 -30.0247335),-51.1543823,-30.0247335
+210861,Porto Alegre,Particular,POINT (-51.15124 -30.00233),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15124 -30.00233),-51.15124,-30.00233
+210862,Porto Alegre,Particular,POINT (-51.12827 -29.9888),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.12827 -29.9888),-51.12827,-29.9888
+210863,Porto Alegre,Não Informado,POINT (-51.22489 -30.06132),,,Urbana,Privada,POINT (-51.22489 -30.06132),-51.22489,-30.06132
+210864,Porto Alegre,Particular,POINT (-51.21132 -30.03758),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21132 -30.03758),-51.21132,-30.03758
+210866,Porto Alegre,Particular,POINT (-51.19971 -30.04156),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19971 -30.04156),-51.19971,-30.04156
+210935,Porto Alegre,Particular,POINT (-51.19259 -30.01697),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.19259 -30.01697),-51.19259,-30.01697
+210943,Porto Alegre,Particular,POINT (-51.1769011 -30.0364162),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1769011 -30.0364162),-51.1769011,-30.0364162
+210944,Porto Alegre,Particular,POINT (-51.23875 -30.13058),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.23875 -30.13058),-51.23875,-30.13058
+210945,Porto Alegre,Particular,POINT (-51.25088 -30.10242),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.25088 -30.10242),-51.25088,-30.10242
+210946,Porto Alegre,Particular,POINT (-51.14382 -30.03515),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14382 -30.03515),-51.14382,-30.03515
+210947,Porto Alegre,Comunitária,POINT (-51.1746199 -30.0234088),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1746199 -30.0234088),-51.1746199,-30.0234088
+210948,Porto Alegre,Comunitária,POINT (-51.1063106 -30.0421388),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1063106 -30.0421388),-51.1063106,-30.0421388
+210949,Porto Alegre,Comunitária,POINT (-51.201672 -30.1196946),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.201672 -30.1196946),-51.201672,-30.1196946
+210950,Porto Alegre,Comunitária,POINT (-51.1940125 -30.0515393),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1940125 -30.0515393),-51.1940125,-30.0515393
+210951,Porto Alegre,Comunitária,POINT (-51.1938659 -29.9926875),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1938659 -29.9926875),-51.1938659,-29.9926875
+210952,Porto Alegre,Comunitária,POINT (-51.1497217 -30.0553207),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1497217 -30.0553207),-51.1497217,-30.0553207
+210953,Porto Alegre,Confessional,POINT (-51.2455313 -30.1052),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2455313 -30.1052),-51.2455313,-30.1052
+210954,Porto Alegre,Particular,POINT (-51.19739 -30.05558),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.19739 -30.05558),-51.19739,-30.05558
+210955,Porto Alegre,Não Informado,POINT (-51.152262 -30.063517),Até 50 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.152262 -30.063517),-51.152262,-30.063517
+210957,Porto Alegre,Comunitária,POINT (-51.087908 -30.2388438),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.087908 -30.2388438),-51.087908,-30.2388438
+210999,Porto Alegre,Particular,POINT (-51.1738 -30.02384),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1738 -30.02384),-51.1738,-30.02384
+211025,Porto Alegre,Particular,POINT (-51.16869 -30.05713),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.16869 -30.05713),-51.16869,-30.05713
+211026,Porto Alegre,Particular,POINT (-51.19295 -30.01599),Entre 51 e 200 matrículas de escolarização,Atividade Complementar,Urbana,Privada,POINT (-51.19295 -30.01599),-51.19295,-30.01599
+211028,Porto Alegre,Particular,POINT (-51.22252 -30.02794),Mais de 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.22252 -30.02794),-51.22252,-30.02794
+211029,Porto Alegre,Não Informado,POINT (-51.21985 -30.02559),,,Urbana,Privada,POINT (-51.21985 -30.02559),-51.21985,-30.02559
+211036,Porto Alegre,Particular,POINT (-51.20904 -30.04865),Entre 201 e 500 matrículas de escolarização,,Urbana,Privada,POINT (-51.20904 -30.04865),-51.20904,-30.04865
+211052,Porto Alegre,Comunitária,POINT (-51.1832874 -30.0700604),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1832874 -30.0700604),-51.1832874,-30.0700604
+211053,Porto Alegre,Comunitária,POINT (-51.13614188 -30.09725492),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.13614188 -30.09725492),-51.13614188,-30.09725492
+211054,Porto Alegre,Particular,POINT (-51.21311 -30.07578),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.21311 -30.07578),-51.21311,-30.07578
+211055,Porto Alegre,Comunitária,POINT (-51.2164041 -30.0679307),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2164041 -30.0679307),-51.2164041,-30.0679307
+211060,Porto Alegre,Comunitária,POINT (-51.1565639544278 -30.0095709320158),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1565639544278 -30.0095709320158),-51.1565639544278,-30.0095709320158
+211061,Porto Alegre,Comunitária,POINT (-51.1370665 -30.1557883),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1370665 -30.1557883),-51.1370665,-30.1557883
+211074,Porto Alegre,Particular,POINT (-51.19838 -30.15997),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.19838 -30.15997),-51.19838,-30.15997
+211075,Porto Alegre,Particular,POINT (-51.12991 -30.00656),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.12991 -30.00656),-51.12991,-30.00656
+211079,Porto Alegre,Comunitária,POINT (-51.2135073 -30.0176651),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2135073 -30.0176651),-51.2135073,-30.0176651
+211080,Porto Alegre,Comunitária,POINT (-51.1940292 -30.0515947),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1940292 -30.0515947),-51.1940292,-30.0515947
+211081,Porto Alegre,Comunitária,POINT (-51.1142777 -30.0080712),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1142777 -30.0080712),-51.1142777,-30.0080712
+211082,Porto Alegre,Comunitária,POINT (-51.2297719 -30.0872609),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.2297719 -30.0872609),-51.2297719,-30.0872609
+211083,Porto Alegre,Comunitária,POINT (-51.1327706 -30.1588946),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1327706 -30.1588946),-51.1327706,-30.1588946
+211084,Porto Alegre,Comunitária,POINT (-51.1995926 -30.1330412),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1995926 -30.1330412),-51.1995926,-30.1330412
+211085,Porto Alegre,Comunitária,POINT (-51.1451066 -30.1505215),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1451066 -30.1505215),-51.1451066,-30.1505215
+211092,Porto Alegre,Não Informado,POINT (-51.1625623 -30.1168322),Entre 201 e 500 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1625623 -30.1168322),-51.1625623,-30.1168322
+211093,Porto Alegre,Não Informado,POINT (-51.1713713 -30.1586634),Mais de 1000 matrículas de escolarização,"Atendimento Educacional Especializado, Atividade Complementar",Urbana,Municipal,POINT (-51.1713713 -30.1586634),-51.1713713,-30.1586634
+211105,Porto Alegre,Particular,POINT (-51.20636 -30.03422),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.20636 -30.03422),-51.20636,-30.03422
+211115,Porto Alegre,Comunitária,POINT (-51.1345219 -29.9882512),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1345219 -29.9882512),-51.1345219,-29.9882512
+211116,Porto Alegre,Comunitária,POINT (-51.1270166 -30.0206808),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1270166 -30.0206808),-51.1270166,-30.0206808
+211117,Porto Alegre,Comunitária,POINT (-51.143803 -30.0676481),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.143803 -30.0676481),-51.143803,-30.0676481
+211129,Porto Alegre,Comunitária,POINT (-51.2175596 -30.1243929),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2175596 -30.1243929),-51.2175596,-30.1243929
+211130,Porto Alegre,Particular,POINT (-51.25478 -30.10209),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.25478 -30.10209),-51.25478,-30.10209
+211133,Porto Alegre,Comunitária,POINT (-51.1261082 -30.0173925),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1261082 -30.0173925),-51.1261082,-30.0173925
+211134,Porto Alegre,Comunitária,POINT (-51.1465118 -30.046755),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1465118 -30.046755),-51.1465118,-30.046755
+211145,Porto Alegre,Comunitária,POINT (-51.1154847 -30.0853063),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1154847 -30.0853063),-51.1154847,-30.0853063
+211153,Porto Alegre,Comunitária,POINT (-51.1090545 -30.0297969),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1090545 -30.0297969),-51.1090545,-30.0297969
+211154,Porto Alegre,Comunitária,POINT (-51.1159756 -30.085206),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1159756 -30.085206),-51.1159756,-30.085206
+211155,Porto Alegre,Particular,POINT (-51.14326 -30.04163),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.14326 -30.04163),-51.14326,-30.04163
+211157,Porto Alegre,Comunitária,POINT (-51.1014116 -30.0010911),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1014116 -30.0010911),-51.1014116,-30.0010911
+211158,Porto Alegre,Particular,POINT (-51.09678 -30.01021),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.09678 -30.01021),-51.09678,-30.01021
+211173,Porto Alegre,Não Informado,POINT (-51.16477 -30.01332),,,Urbana,Privada,POINT (-51.16477 -30.01332),-51.16477,-30.01332
+211174,Porto Alegre,Comunitária,POINT (-51.1544272 -30.026365),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1544272 -30.026365),-51.1544272,-30.026365
+211175,Porto Alegre,Particular,POINT (-51.1711 -30.06323),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1711 -30.06323),-51.1711,-30.06323
+211176,Porto Alegre,Comunitária,POINT (-51.1595418 -30.067345),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1595418 -30.067345),-51.1595418,-30.067345
+211191,Porto Alegre,Comunitária,POINT (-51.1701408 -30.2066819),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1701408 -30.2066819),-51.1701408,-30.2066819
+211195,Porto Alegre,Não Informado,POINT (-51.1514825 -30.1539924),,,Urbana,Privada,POINT (-51.1514825 -30.1539924),-51.1514825,-30.1539924
+211196,Porto Alegre,Particular,POINT (-51.15711 -30.01689),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15711 -30.01689),-51.15711,-30.01689
+211197,Porto Alegre,Comunitária,POINT (-51.14064416 -30.10842552),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.14064416 -30.10842552),-51.14064416,-30.10842552
+211200,Porto Alegre,Comunitária,POINT (-51.2192453 -30.1033387),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2192453 -30.1033387),-51.2192453,-30.1033387
+211201,Porto Alegre,Particular,POINT (-51.2003 -29.99562),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2003 -29.99562),-51.2003,-29.99562
+211227,Porto Alegre,Particular,POINT (-51.17146 -30.00942),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.17146 -30.00942),-51.17146,-30.00942
+211252,Porto Alegre,Particular,POINT (-51.1157259810716 -29.9811290809885),Entre 501 e 1000 matrículas de escolarização,,Urbana,Privada,POINT (-51.1157259810716 -29.9811290809885),-51.1157259810716,-29.9811290809885
+211261,Porto Alegre,Não Informado,POINT (-51.23171 -30.09695),,,Urbana,Privada,POINT (-51.23171 -30.09695),-51.23171,-30.09695
+211392,Porto Alegre,Comunitária,POINT (-51.1039435 -30.0297176),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1039435 -30.0297176),-51.1039435,-30.0297176
+211393,Porto Alegre,Particular,POINT (-51.19666 -30.05393),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19666 -30.05393),-51.19666,-30.05393
+211436,Porto Alegre,Particular,POINT (-51.18512 -30.02954),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18512 -30.02954),-51.18512,-30.02954
+211437,Porto Alegre,Particular,POINT (-51.17845 -30.00563),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.17845 -30.00563),-51.17845,-30.00563
+211438,Porto Alegre,Particular,POINT (-51.1093 -30.01455),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1093 -30.01455),-51.1093,-30.01455
+211439,Porto Alegre,Particular,POINT (-51.22706 -30.13268),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.22706 -30.13268),-51.22706,-30.13268
+211440,Porto Alegre,Particular,POINT (-51.18958 -30.08504),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18958 -30.08504),-51.18958,-30.08504
+211441,Porto Alegre,Particular,POINT (-51.18847 -30.02682),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.18847 -30.02682),-51.18847,-30.02682
+211442,Porto Alegre,Comunitária,POINT (-51.1293424 -29.9886434),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1293424 -29.9886434),-51.1293424,-29.9886434
+211465,Porto Alegre,Particular,POINT (-51.19909 -30.03723),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.19909 -30.03723),-51.19909,-30.03723
+211466,Porto Alegre,Particular,POINT (-51.22655 -30.13924),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.22655 -30.13924),-51.22655,-30.13924
+211467,Porto Alegre,Particular,POINT (-51.15263 -30.00522),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.15263 -30.00522),-51.15263,-30.00522
+211492,Porto Alegre,Comunitária,POINT (-51.2140756 -30.1591027),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2140756 -30.1591027),-51.2140756,-30.1591027
+211493,Porto Alegre,Comunitária,POINT (-51.111371 -30.018334),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.111371 -30.018334),-51.111371,-30.018334
+211494,Porto Alegre,Comunitária,POINT (-51.2440192233771 -29.9868121370673),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2440192233771 -29.9868121370673),-51.2440192233771,-29.9868121370673
+211495,Porto Alegre,Comunitária,POINT (-51.1196823 -30.0326707),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1196823 -30.0326707),-51.1196823,-30.0326707
+211496,Porto Alegre,Comunitária,POINT (-51.2318429 -30.0743277),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.2318429 -30.0743277),-51.2318429,-30.0743277
+211497,Porto Alegre,Comunitária,POINT (-51.14361304 -30.09967726),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.14361304 -30.09967726),-51.14361304,-30.09967726
+211498,Porto Alegre,Particular,POINT (-51.1921 -30.00943),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1921 -30.00943),-51.1921,-30.00943
+211499,Porto Alegre,Comunitária,POINT (-51.1348927 -30.1599776),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1348927 -30.1599776),-51.1348927,-30.1599776
+211500,Porto Alegre,Particular,POINT (-51.24834 -30.1064),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.24834 -30.1064),-51.24834,-30.1064
+211523,Porto Alegre,Particular,POINT (-51.1946 -29.98291),Até 50 matrículas de escolarização,,Urbana,Privada,POINT (-51.1946 -29.98291),-51.1946,-29.98291
+211524,Porto Alegre,Comunitária,POINT (-51.1021738 -29.9910791),Entre 51 e 200 matrículas de escolarização,,Urbana,Privada,POINT (-51.1021738 -29.9910791),-51.1021738,-29.9910791
