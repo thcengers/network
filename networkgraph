@@ -1,0 +1,155 @@
+
+pip install pyvis
+
+import pandas as pd
+from pyvis.network import Network
+import IPython
+import networkx as nx
+import matplotlib.pyplot as plt
+
+
+#Função para criação de pontos de origem e destino.
+def gerar_rede_por_curso(lista_alunos, lista_professores):
+  alunos_duplicados = []
+  professores_duplicados = []
+  for aluno in lista_alunos:
+    
+      for professor in lista_professores:
+          alunos_duplicados.append(aluno)
+          professores_duplicados.append(professor)
+
+
+  net = pd.DataFrame({
+    'aluno': alunos_duplicados,
+    'professor': professores_duplicados
+  })
+
+
+  return(net)
+
+
+#Input de dados dos professores e alunos por curso
+caminho_a = '/content/drive/MyDrive/- pastas antigas e todos os seus conteúdos!/06_SITE/ATUALIZ SITE/BANCOS DE DADOS/path.csv'
+lista_de_alunos_a = pd.read_csv(caminho_a)
+
+lista_de_alunos_a = list(lista_de_alunos_a['Source'])
+lista_de_professores_a = ['Luciana Fonseca', 'Aline Comiran', 'Carolina Souza', 'Rodrigo Rocha']
+
+rede_a = gerar_rede_por_curso(lista_de_alunos_a, lista_de_professores_a)
+
+rede_a['Source'] = rede_a['aluno']
+rede_a['Target'] = rede_a['professor']
+rede_a['Weight'] = 0
+
+rede_a['Category'] = 3
+
+rede_a = rede_a[['Source','Target','Weight', 'Category']]
+rede_a
+
+
+#Concatenar os professores de todos os cursos
+professores_total = pd.concat([rede_a['Target'], ])
+list(professores_total.drop_duplicates())
+
+
+#Criar rede da equipe interna
+rspnsv_equipe = ['Luciana Fonseca', 'Thiago Engers', 'Manoela Peruzzo', 'Thaís Barreto']
+
+equipe_interna = gerar_rede_por_curso(professores_total, rspnsv_equipe)
+
+equipe_interna['Source'] = equipe_interna['aluno']
+equipe_interna['Target'] = equipe_interna['professor']
+equipe_interna['Weight'] = 1
+
+equipe_interna['Category'] = 'equipe_interna'
+
+equipe_interna = equipe_interna[['Source','Target','Weight', 'Category']]
+
+
+#Juntar os dataframes de redes
+frames = [rede_a['Target'], equipe_interna]
+data = pd.concat(frames).drop_duplicates()
+
+
+#Criar a visualização e definir configurações
+net = Network(height='1080px', width='100%', bgcolor='#FFFFFF', font_color='blue')
+
+net.barnes_hut()
+
+sources = data2['Source']
+targets = data2['Target']
+weights = data2['Weight']
+category = data2['Category']
+
+edge_data = zip(sources, targets, weights, category)
+
+for e in edge_data:
+    src = e[0]
+    dst = e[1]
+    w = e[2]
+    c = e[3]
+
+    if c is 1:
+        net.add_node(src, src, title=src, color='red')
+    if c is 2:
+        net.add_node(src, dst, title=dst, color='yellow')
+    if c is 3:
+        net.add_node(dst, dst, title=dst, color='blue')
+    else:
+        net.add_node(dst, dst, title=dst, color='green')
+
+    net.add_node(src, src, title=src)
+    net.add_node(dst, dst, title=dst)
+    net.add_edge(src, dst, value=w)
+
+neighbor_map = net.get_adj_list()
+
+for node in net.nodes:
+    node['title'] += ' Neighbors:<br>' + '<br>'.join(neighbor_map[node['id']])
+    node['value'] = len(neighbor_map[node['id']])
+
+net.show_buttons()
+net.show('rede.html')
+
+
+#Copiar as informações da configuração estabelecida
+const_options = """{
+  "nodes": {
+    "borderWidth": 0,
+    "borderWidthSelected": 3,
+    "opacity": 0.5,
+    "shape": "dot",
+    "size": null
+  },
+  "edges": {
+    "color": {
+      "inherit": true
+    },
+    "selfReferenceSize": null,
+    "selfReference": {
+      "angle": 0.7853981633974483
+    },
+    "smooth": {
+      "type": "continuous",
+      "forceDirection": "none",
+      "roundness": 0
+    },
+    "width": 0
+  },
+  "physics": {
+    "barnesHut": {
+      "theta": 0.1,
+      "gravitationalConstant": -110880,
+      "centralGravity": 7.4,
+      "springLength": 0,
+      "springConstant": 0,
+      "damping": 0
+    },
+    "maxVelocity": 6,
+    "minVelocity": 0.13
+  }
+}"""
+
+#Copiar a configuração no código HTML
+net.set_options(const_options)
+net.show('rede.html')
