@@ -53,7 +53,7 @@ list(professores_total.drop_duplicates())
 
 
 #Criar rede da equipe interna
-rspnsv_equipe = ['Luciana Fonseca', 'Thiago Engers', 'Manoela Peruzzo', 'Thaís Barreto']
+rspnsv_equipe = ['Integrante A', 'Integrante B', 'Integrante C', 'Integrante D']
 
 equipe_interna = gerar_rede_por_curso(professores_total, rspnsv_equipe)
 
@@ -151,5 +151,41 @@ const_options = """{
 }"""
 
 #Copiar a configuração no código HTML
+net = Network(height='1080px', width='100%', bgcolor='#FFFFFF', font_color='blue')
+
+net.barnes_hut()
+
+sources = data2['Source']
+targets = data2['Target']
+weights = data2['Weight']
+category = data2['Category']
+
+edge_data = zip(sources, targets, weights, category)
+
+for e in edge_data:
+    src = e[0]
+    dst = e[1]
+    w = e[2]
+    c = e[3]
+
+    if c is 1:
+        net.add_node(src, src, title=src, color='red')
+    if c is 2:
+        net.add_node(src, dst, title=dst, color='yellow')
+    if c is 3:
+        net.add_node(dst, dst, title=dst, color='blue')
+    else:
+        net.add_node(dst, dst, title=dst, color='green')
+
+    net.add_node(src, src, title=src)
+    net.add_node(dst, dst, title=dst)
+    net.add_edge(src, dst, value=w)
+
+neighbor_map = net.get_adj_list()
+
+for node in net.nodes:
+    node['title'] += ' Neighbors:<br>' + '<br>'.join(neighbor_map[node['id']])
+    node['value'] = len(neighbor_map[node['id']])
+    
 net.set_options(const_options)
 net.show('rede.html')
